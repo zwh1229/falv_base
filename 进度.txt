@@ -1,0 +1,147 @@
+数据跨境合规体检智能体项目进度
+更新时间：2026-06-01
+
+一、仓库状态
+
+1. 已初始化 Git 仓库。
+2. 已推送到 GitHub：
+   git@github.com:zwh1229/falv_base.git
+3. 当前主分支：
+   main
+4. 最近提交：
+   4dadba8 data: add legal package and CN-DATA-007
+
+二、后端基础能力
+
+1. 已搭建 FastAPI 后端基础服务。
+2. 已使用 conda 环境 rag-backend。
+3. 已配置 requirements.txt。
+4. 已实现健康检查接口：
+   GET /api/v1/health
+5. 已实现审查任务创建接口：
+   POST /api/v1/audit-tasks
+6. 已实现审查任务查询接口：
+   GET /api/v1/audit-tasks/{task_id}
+7. 已实现提交问答回答接口：
+   POST /api/v1/audit-tasks/{task_id}/answers
+8. 已使用 SQLite 本地模拟数据库。
+9. 已建立基础表：
+   audit_tasks
+   audit_answers
+
+三、已实现的问答逻辑
+
+1. 支持创建体检任务。
+2. 支持审查范围：
+   china
+   china_singapore
+   china_vietnam
+3. 支持根据审查范围映射国家库：
+   China
+   China + Singapore
+   China + Vietnam
+4. 支持 5 轮固定问答。
+5. 支持提交回答后推进下一轮问题。
+
+四、真实法规数据包
+
+1. 已将真实法规数据包整理进仓库：
+   data/legal/cn-sg-vn-legal-data-package
+2. 数据包包含三类法规库：
+   enterprise_landing
+   cross_border_data
+   tax
+3. 覆盖国家：
+   China
+   Singapore
+   Vietnam
+4. 已清理 macOS 元数据文件：
+   .DS_Store
+   __MACOSX
+5. 已将索引路径改为仓库内相对路径。
+
+五、新增中国资料
+
+1. 已将以下 DOCX 加入中国数据跨境资料：
+   D:\中华人民共和国国务院令第837号.docx
+2. 新编号：
+   CN-DATA-007
+3. 法规名称：
+   国务院关于对外投资的规定
+4. 归类：
+   China / cross_border_data
+5. 生效日期：
+   2026-07-01
+6. 已生成：
+   source.docx
+   content.txt
+   metadata.json
+   fetch-status.json
+
+六、法规数据统计
+
+1. 原始法规记录数：
+   29
+2. 当前法规记录数：
+   30
+3. China / cross_border_data：
+   7
+4. China / enterprise_landing：
+   3
+5. China / tax：
+   3
+6. Singapore / cross_border_data：
+   3
+7. Singapore / enterprise_landing：
+   3
+8. Singapore / tax：
+   3
+9. Vietnam / cross_border_data：
+   3
+10. Vietnam / enterprise_landing：
+   2
+11. Vietnam / tax：
+   3
+
+七、文档状态
+
+1. 已生成后端架构文档：
+   docs/后端技术架构与实现步骤.md
+2. 文档已更新以下内容：
+   后端总体架构图
+   业务流程图
+   数据库逻辑模型
+   法规资料接入流程
+   三类法规库检索逻辑
+   风险分析逻辑
+   报告生成逻辑
+   下一步实现步骤
+3. 文档已同步新增 CN-DATA-007。
+
+八、下一步开发重点
+
+1. 新增 legal_records 表。
+2. 新增 legal_chunks 表。
+3. 编写 legal_data_loader.py。
+4. 实现从 data/legal/cn-sg-vn-legal-data-package 导入 30 条法规主记录。
+5. 增加接口：
+   POST /api/v1/legal-data/import
+6. 实现基础法规检索：
+   按国家过滤
+   按 domain 过滤
+   按关键词和标签匹配
+7. 后续再做：
+   风险分析
+   问题清单
+   报告生成
+   PDF 导出
+
+九、暂缓事项
+
+1. 登录注册。
+2. 企业后台。
+3. 权限体系。
+4. 向量数据库。
+5. 大模型 Agent。
+6. PDF 样式细化。
+
