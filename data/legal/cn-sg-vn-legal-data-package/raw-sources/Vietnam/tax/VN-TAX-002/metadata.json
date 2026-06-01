@@ -1,0 +1,20 @@
+{
+  "id": "VN-TAX-002",
+  "country": "Vietnam",
+  "domain": "tax",
+  "law_title_local": "Văn bản hợp nhất số 22/VBHN-VPQH hợp nhất Luật Thuế thu nhập doanh nghiệp",
+  "law_title_en": "Consolidated Law on Corporate Income Tax (VBHN 22)",
+  "citation": "22/VBHN-VPQH",
+  "issuing_body": "Office of the National Assembly",
+  "effective_date": "2022-12-29",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-22-vbhn-vpqh-39013.htm",
+  "agent_tags": [
+    "CIT",
+    "taxable_income",
+    "preferential_rate"
+  ],
+  "retrieval_priority": "medium"
+}

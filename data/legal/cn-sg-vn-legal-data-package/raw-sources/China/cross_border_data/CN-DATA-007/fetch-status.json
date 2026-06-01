@@ -1,0 +1,8 @@
+{
+  "fetch_status": "success",
+  "method": "local_docx_ingest",
+  "http_status": null,
+  "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+  "checked_at_utc": "2026-06-01T13:22:08.306977+00:00",
+  "source_file": "source.docx"
+}

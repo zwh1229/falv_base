@@ -1,0 +1,20 @@
+{
+  "id": "SG-TAX-002",
+  "country": "Singapore",
+  "domain": "tax",
+  "law_title_local": "Goods and Services Tax Act 1993",
+  "law_title_en": "Goods and Services Tax Act 1993",
+  "citation": "Act 31 of 1993",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "1994-04-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/GSTA1993?ProvIds=P13-",
+  "agent_tags": [
+    "GST",
+    "taxable_supply",
+    "import_GST"
+  ],
+  "retrieval_priority": "high"
+}

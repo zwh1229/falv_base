@@ -1,0 +1,20 @@
+{
+  "id": "SG-ENT-001",
+  "country": "Singapore",
+  "domain": "enterprise_landing",
+  "law_title_local": "Companies Act 1967",
+  "law_title_en": "Companies Act 1967",
+  "citation": "Act 50",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "1967-12-29",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/CoA1967?WholeDoc=1",
+  "agent_tags": [
+    "incorporation",
+    "directors",
+    "capital_structure"
+  ],
+  "retrieval_priority": "high"
+}

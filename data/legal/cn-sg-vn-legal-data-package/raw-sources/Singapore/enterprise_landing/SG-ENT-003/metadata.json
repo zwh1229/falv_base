@@ -1,0 +1,20 @@
+{
+  "id": "SG-ENT-003",
+  "country": "Singapore",
+  "domain": "enterprise_landing",
+  "law_title_local": "Limited Liability Partnerships Act 2005",
+  "law_title_en": "Limited Liability Partnerships Act 2005",
+  "citation": "Act 5 of 2005",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "2005-01-19",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/LLPA2005?ValidDate=20260506",
+  "agent_tags": [
+    "LLP",
+    "entity_choice",
+    "partner_liability"
+  ],
+  "retrieval_priority": "medium"
+}

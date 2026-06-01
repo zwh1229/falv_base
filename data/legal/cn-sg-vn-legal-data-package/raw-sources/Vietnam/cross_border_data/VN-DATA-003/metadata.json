@@ -1,0 +1,20 @@
+{
+  "id": "VN-DATA-003",
+  "country": "Vietnam",
+  "domain": "cross_border_data",
+  "law_title_local": "Nghị định số 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân",
+  "law_title_en": "Decree No. 13/2023/ND-CP on Personal Data Protection",
+  "citation": "13/2023/NĐ-CP",
+  "issuing_body": "Government of Vietnam",
+  "effective_date": "2023-07-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-13-2023-nd-cp-39228/44543.htm",
+  "agent_tags": [
+    "personal_data",
+    "transfer_impact_assessment",
+    "consent"
+  ],
+  "retrieval_priority": "high"
+}

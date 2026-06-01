@@ -1,0 +1,1841 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script async src="//assets.wogaa.sg/scripts/wogaa.js" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+<script async src="/CMS/scripts/google_analytics.js" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8" />
+    <meta name="og:url" content="https://sso.agc.gov.sg/Act/BNRA2014">
+    <meta name="og:image" content="/CMS/Content/Images/sso_logo.svg">
+    <meta name="image" content="/CMS/Content/Images/sso_logo.svg" />
+    <meta name="google-signin-scope" content="profile email">
+    <meta name="google-signin-client_id" content="411798117816-38evsfla7dnhkmboqc0bj723kogo2d2o">
+    <meta name="description" content="Singapore Statutes Online is provided by the Legislation Division of the Singapore Attorney-General's Chambers" />
+    
+    
+    <title>
+        Business Names Registration Act 2014 - Singapore Statutes Online
+    </title>
+    <link rel="apple-touch-icon" sizes="57x57" href="/CMS/Content/icons/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/CMS/Content/icons/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/CMS/Content/icons/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/CMS/Content/icons/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/CMS/Content/icons/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/CMS/Content/icons/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/CMS/Content/icons/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/CMS/Content/icons/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="/CMS/Content/icons/apple-icon-167x167.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/CMS/Content/icons/apple-icon-180x180.png">
+    <link rel="icon" href="/CMS/Content/icons/touch-icon-192x192.png">
+    <link rel="icon" href="/CMS/Content/icons/touch-icon-128x128.png">
+    <link rel="icon" href="/CMS/Content/icons/touch-icon-114x114.png">
+    <link rel="shortcut icon" href="/s_favicon.ico" />
+    <link rel="preload" as="image" href="/CMS/Content/images/sso_logo.svg" />
+    <link rel="preload" as="image" href="/CMS/Content/images/sso_logo.png" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-masthead/dist/sgds-masthead/sgds-masthead.css">
+  	<script type="module" src="https://cdn.jsdelivr.net/npm/@govtechsg/sgds-masthead/dist/sgds-masthead/sgds-masthead.js" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <script async src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <link href="/CMS/lib/bootstrap-5.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen,print" />
+
+    <link href="/CMS/Content/css/bundle?v=dj8jjnArQmIteGbwqBSDTmQFSc1T0myNJMXBtXXSP4E1" rel="stylesheet" media="screen,print" />
+
+
+    <link href="/CMS/Content/css/bootstrap-datepicker?v=NncgYdgOkhQeMRMVooo6sInf9G-pTnBQZ3OQcvjW3NM1" rel="stylesheet" media="screen,print" />
+
+    <link href="/Content/legis?v=wgyK1qLNZoKlVTTwGi4zN0OWceM7n9zvoawJpy-Zffg1" rel="stylesheet" media="screen,print" />
+
+
+    
+
+    
+
+    <style>
+        #main {
+            padding-left: 0 !important;
+            padding-right: 0 !important;
+        }
+
+        body {
+            margin-bottom: 0;
+        }
+    </style>
+
+</head>
+<body style="visibility: hidden">
+    <div id="top"></div>
+    <div class="top-bar">
+        <div class="container">
+            <div id="mastHeadRow">
+                <sgds-masthead></sgds-masthead>
+            </div>
+        </div>
+    </div>
+    <div class="row hidden-xs hidden-sm" id="siteHeader">
+        <div class="header container">
+            <div class="row">
+                    <div class="col-sm-4 col-md-5 col-5 no-side-padding">
+                        <a href="https://sso.agc.gov.sg/" title="Singapore Statutes Online" aria-label="Singapore Statutes Online">
+                            <span class="logo"></span>
+                        </a>
+                    </div>
+                <div class="col-sm-8 col-md-7 col-7 text-end top-right-panel">
+                    <div class="row mb-1">
+                        <div class="col pe-0 text-end">
+                            <a href="https://sso.agc.gov.sg/Help/FAQ" title="FAQ" style="color: #94001a">FAQs</a> | <a href="https://sso.agc.gov.sg/Feedback" title="Feedback" style="color: #94001a">Feedback</a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col pe-0">
+                            <button type="button" class="btn btn-default" id="decFS">
+                                A-
+                            </button>
+                            <button type="button" class="btn btn-default ms-3" id="incFS">
+                                A+
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="topSection">
+        
+
+<!---->
+
+<div id="mainMenu">
+    <div class="menu container">
+        <div class="row">
+            <div class="col-lg-8 col-md-8 col-5">
+                    <a href="https://sso.agc.gov.sg/" class="visible-xs visible-sm" title="Singapore Statutes Online" aria-label="Singapore Statutes Online">
+                        <span class="logo"></span>
+                    </a>
+            <nav class="navbar navbar-left navbar-expand-lg navbar-inverse pe-0">
+                <ul class="navbar-nav nav mr-auto hidden-xs hidden-sm" id="mainMenuList">
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://sso.agc.gov.sg/Index" title="Home">
+                                        Home
+                                    </a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a href="#" title="Browse" class="nav-link dropdown-toggle" id="dropdown_1" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Browse
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdown_1">
+                                        <div class="row-eq-height">
+                                                        <div class="dropdown-menu-col">
+                                                            <div class="menu-title">
+Acts                                                            </div>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Current">
+                                                                        Current
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Repealed">
+                                                                        Repealed/Spent
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Uncommenced">
+                                                                        Uncommenced
+                                                                    </a>
+                                                        </div>
+                                                        <div class="dropdown-menu-col">
+                                                            <div class="menu-title">
+Subsidiary Legislation                                                            </div>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL/Current">
+                                                                        Current
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL/Revoked">
+                                                                        Revoked/Spent
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL/Uncommenced">
+                                                                        Uncommenced
+                                                                    </a>
+                                                        </div>
+                                                        <div class="dropdown-menu-col">
+                                                            <div class="menu-title">
+AS PUBLISHED                                                            </div>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Acts-Supp">
+                                                                        Acts Supplement
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Bills-Supp">
+                                                                        Bills Supplement
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL-Supp">
+                                                                        Subsidiary Legislation Supplement
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act-Rev">
+                                                                        Revised Editions of Acts
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL-Rev">
+                                                                        Revised Editions of Subsidiary Legislation
+                                                                    </a>
+                                                        </div>
+                                                        <div class="dropdown-menu-col">
+                                                            <div class="menu-title">
+QUICK LINKS                                                            </div>
+                                                                    <span>
+                                                                        Constitutional Instruments
+                                                                    </span>
+                                                                    <div class="menu-last">
+                                                                            <a href="https://sso.agc.gov.sg/Browse/Act/Current?SubType=Constitutional">
+                                                                                Basic Acts
+                                                                            </a>
+                                                                            <a href="https://sso.agc.gov.sg/Browse/SL/Current?SubType=Constitutional">
+                                                                                Subsidiary Legislation
+                                                                            </a>
+                                                                    </div>
+                                                                    <a href="https://sso.agc.gov.sg/Act/IA1965">
+                                                                        Interpretation Act
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Current?SubType=Private">
+                                                                        Private Acts
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Current?SubType=EnglishCommercial">
+                                                                        English Acts
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Act/Current?SubType=Imperial">
+                                                                        Imperial Acts
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/SL/Current?SubType=Awards">
+                                                                        Honours/Awards
+                                                                    </a>
+                                                                    <a href="https://sso.agc.gov.sg/Browse/Frequently-Accessed-Legislation">
+                                                                        Frequently Accessed Legislation
+                                                                    </a>
+                                                        </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a href="#" title="What&#39;s New" class="nav-link dropdown-toggle" id="dropdown_2" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        What&#39;s New
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdown_2">
+                                        <div class="row-eq-height">
+                                                    <div class="dropdown-menu-col">
+                                                                <a href="https://sso.agc.gov.sg/What&#39;s-New/Announcements">
+                                                                    Announcements
+                                                                </a>
+                                                                <a href="https://sso.agc.gov.sg/Courses">
+                                                                    Courses
+                                                                </a>
+                                                                <a href="https://sso.agc.gov.sg/What&#39;s-New/New-Legislation">
+                                                                    New Legislation
+                                                                </a>
+                                                    </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a href="#" title="Help" class="nav-link dropdown-toggle" id="dropdown_3" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Help
+                                    </a>
+                                    <div class="dropdown-menu" aria-labelledby="dropdown_3">
+                                        <div class="row-eq-height">
+                                                    <div class="dropdown-menu-col">
+                                                                <a href="https://sso.agc.gov.sg/Help/FAQ">
+                                                                    FAQs
+                                                                </a>
+                                                                <a href="https://sso.agc.gov.sg/Help/SSO-Guide">
+                                                                    SSO Guide
+                                                                </a>
+                                                                <a href="https://sso.agc.gov.sg/Help/Video-Guides">
+                                                                    Video Guides
+                                                                </a>
+                                                    </div>
+
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="https://sso.agc.gov.sg/About-Us" title="About Us">
+                                        About Us
+                                    </a>
+                                </li>
+
+                    <li class="nav-item mobile-misc-menu">
+                        <a class="nav-link" href="https://sso.agc.gov.sg/Help/FAQ" title="FAQ">FAQs</a>
+                    </li>
+                    <li class="nav-item mobile-misc-menu">
+                        <a class="nav-link" href="https://sso.agc.gov.sg/Feedback" title="Feedback">Feedback</a>
+                    </li>
+                </ul>
+            </nav>
+            </div>
+            <div class="col-lg-4 col-md-4 col-7 col-right">
+                <nav class="navbar navbar-expand-lg navbar-inverse navbar-right pe-0">
+                    <ul class="navbar-nav nav mr-auto">
+                        
+
+                        <li class="dropdown my-collection-dropdown" id="myCollectionMenuItem">
+                            <a href="#" class="nav-link dropdown2-toggle hidden-xs hidden-sm my-collections-toggle" id="myCollectionDropdownd" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="fa fa-bookmark-o">
+                                </span>&nbsp;&nbsp;My Collections
+                            </a>
+                            <button type="button" class="btn btn-sm dropdown2-toggle visible-xs visible-sm my-collections-toggle" id="myCollectionDropdown" aria-label="My Collections" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="fa fa-2x fa-bookmark-o">
+                                </span>
+                            </button>
+                        </li>
+                        <li class="nav-item dropdown basic-search-dropdown ">
+                            <a href="#" class="nav-link dropdown2-toggle basic-search-toggle hidden-xs hidden-sm" id="searchDropdownd" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                <span class="fa fa-search">
+                                </span>&nbsp;&nbsp;Search
+                            </a>
+                        </li>
+                        <li class="nav-item dropdown visible-xs visible-sm" id="mobileMenuItem">
+                            <button type="button" class="btn btn-sm dropdown2-toggle" id="mobileMenuBtn" data-bs-toggle="dropdown" aria-label="Menu" aria-haspopup="true" aria-expanded="false">
+                                <span class="fa fa-2x fa-align-justify">
+                                </span>
+                            </button>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </div>
+</div>
+    </div>
+    <div id="fs">
+        <div class="body-content container">
+            <div id="container">
+                                <div id="main">
+                    
+
+
+
+
+
+
+<div class="modal fade" tabindex="-1" role="dialog" id="printModal">
+    <div class="modal-dialog" role="document" style="width: 800px">
+        <div class="modal-content">
+            <div class="modal-header hidden-xs">
+                <div class="modal-title">
+                    <div class="legis-title">
+                        <div>Business Names Registration Act 2014</div>
+                        <span>
+                            
+                        </span>
+                    </div>
+                        <div class="status-row">
+                            <div class="status-caption">
+                                Status:<br />&nbsp;
+                            </div>
+                            <div class="status-value">
+                                Current version<br />as at 31 May 2026
+                            </div>
+                        </div>
+                </div>
+                <a href="#" data-bind="click: ToggleSidebar" class="float-end" data-bs-dismiss="modal" aria-label="Close" title="Close">
+                    <i class="fa fa-2x fa-close"></i>
+                </a>
+            </div>
+            <div class="modal-header visible-xs">
+                <a href="#" class="right-close-btn" data-bs-dismiss="modal" aria-label="Close" title="Close">
+                    <span class="fa fa-2x fa-close"></span>
+                </a>
+                <div class="legis-title">
+                    <div>Print</div>
+                </div>
+            </div>
+            <div class="modal-body" id="printModalBody">
+                
+                
+<div class="print-form">
+    <div class="row print-message">
+        <div class="col-12">
+            Select the provisions you wish to print using the checkboxes and then click the relevant "Print" 
+            <a href="/Help/SSO-Guide/Article/20" class="help" target="_blank"><span class="fa fa-question-circle"></span></a>
+
+        </div>
+    </div>
+    <div class="row hidden-xs print-btn">
+        <div class="col-12">
+            <button type="button" class="btn btn-default" data-bind="click: onSelectAllClick">Select All</button>
+            <button type="button" class="btn btn-default" data-bind="click: onClearAllClick">Clear All</button>
+            
+            
+            <button type="button" class="btn btn-primary" data-bind="click: onPrintToHtmlClick">Print - HTML</button>
+            
+            <button type="button" class="btn btn-primary" data-bind="click: onPrintToPdfClick">Print - PDF</button>
+            <button type="button" class="btn btn-primary" data-bind="click: onPrintToWordClick">Print - Word</button>
+        </div>
+    </div>
+    <div class="print-filter">
+        <div id="message"></div>
+        <div id="contents" class="filter"><p class="HeadingParagraph"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="root-." id="chkRoot" /> <label for="chkRoot">Business Names Registration Act 2014<br /></span></p><p class="HeadingParagraph"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="toc-." id="tocCheck" /> <label for="tocCheck">Table of Contents</label></p><p class="HeadingParagraph filter"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="al-" id="chkc59ad2b7-de09-4d2c-b4da-944af042d44e" /> <label for="chkc59ad2b7-de09-4d2c-b4da-944af042d44e"><b>Long Title</b></p><p class="HeadingParagraph filter"><a style="font-size:1.1em" class="displayText" data-id="412d982a-96b4-4fd5-a849-2a816af4e7dd" href="#"><span class="fa fa-caret-right"></span></a><input class="form-check-input" type="checkbox" name="item" value="P11-" id="PartID_412d982a-96b4-4fd5-a849-2a816af4e7dd"  /> <label for="PartID_412d982a-96b4-4fd5-a849-2a816af4e7dd"><b>Part 1 PRELIMINARY</b></label></p><div class="showText_412d982a-96b4-4fd5-a849-2a816af4e7dd" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr1-" class="form-check-input childID" data-id="412d982a-96b4-4fd5-a849-2a816af4e7dd" data-id2="" id="chk3766c404-0463-4064-b02a-3ea5edf48edc" /> <label for="chk3766c404-0463-4064-b02a-3ea5edf48edc">1 Short title</label></div></blockquote></div><div class="showText_412d982a-96b4-4fd5-a849-2a816af4e7dd" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr2-" class="form-check-input childID" data-id="412d982a-96b4-4fd5-a849-2a816af4e7dd" data-id2="" id="chkb8218b40-c217-42ee-9e85-31257897ee64" /> <label for="chkb8218b40-c217-42ee-9e85-31257897ee64">2 Interpretation</label></div></blockquote></div><div class="showText_412d982a-96b4-4fd5-a849-2a816af4e7dd" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr3-" class="form-check-input childID" data-id="412d982a-96b4-4fd5-a849-2a816af4e7dd" data-id2="" id="chk8bf3db22-f0ca-4ac0-ad48-636eed5123fb" /> <label for="chk8bf3db22-f0ca-4ac0-ad48-636eed5123fb">3 Administration of Act and appointment of Registrar of Business Names, etc.</label></div></blockquote></div><div class="showText_412d982a-96b4-4fd5-a849-2a816af4e7dd" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr4-" class="form-check-input childID" data-id="412d982a-96b4-4fd5-a849-2a816af4e7dd" data-id2="" id="chk0e25c546-0105-4e9d-ab8f-fed16cb83606" /> <label for="chk0e25c546-0105-4e9d-ab8f-fed16cb83606">4 Persons not required to be registered under Act</label></div></blockquote></div><p class="HeadingParagraph filter"><a style="font-size:1.1em" class="displayText" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" href="#"><span class="fa fa-caret-right"></span></a><input class="form-check-input" type="checkbox" name="item" value="P12-" id="PartID_fbcb8e21-a955-43dd-8f3a-7a78be419959"  /> <label for="PartID_fbcb8e21-a955-43dd-8f3a-7a78be419959"><b>Part 2 REGISTRATION</b></label></p><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr5-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chke6ea79f1-0577-4415-95a2-09242d0618b2" /> <label for="chke6ea79f1-0577-4415-95a2-09242d0618b2">5 Requirement to register</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr6-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk7fd4b99f-748a-4147-a177-7ff343bc86f4" /> <label for="chk7fd4b99f-748a-4147-a177-7ff343bc86f4">6 Manner and particulars of registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr7-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk1ca6ebdf-acca-4482-9dc2-3861e912d9b6" /> <label for="chk1ca6ebdf-acca-4482-9dc2-3861e912d9b6">7 Registration by nominee or trustee</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr8-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk62e95557-a8a0-421d-8f85-2957f596c7bc" /> <label for="chk62e95557-a8a0-421d-8f85-2957f596c7bc">8 Registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr9-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk1a590b99-1220-47d5-8869-27c39f9e3af5" /> <label for="chk1a590b99-1220-47d5-8869-27c39f9e3af5">9 When registration must be refused</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr10-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk6dedd748-06fd-470f-a8bf-6a347967034a" /> <label for="chk6dedd748-06fd-470f-a8bf-6a347967034a">10 Registration does not confer ownership</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr11-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk1878bfeb-eee9-468e-88e3-26a11acebcbb" /> <label for="chk1878bfeb-eee9-468e-88e3-26a11acebcbb">11 Authorised representative</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr12-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk7b4f1540-a87f-4f67-ada4-eae05a318bb5" /> <label for="chk7b4f1540-a87f-4f67-ada4-eae05a318bb5">12 General power to cancel registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr13-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkd04204b4-54ac-4b7f-a9ea-bd2fdffd2df4" /> <label for="chkd04204b4-54ac-4b7f-a9ea-bd2fdffd2df4">13 Supplemental provision to sections 9 and 12</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr14-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk0ac4940c-d32b-4a6d-8338-2ef23bd2e221" /> <label for="chk0ac4940c-d32b-4a6d-8338-2ef23bd2e221">14 Cancellation for failure to renew registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr15-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkd3f3b2bc-a4fc-4499-a241-b716a297eb64" /> <label for="chkd3f3b2bc-a4fc-4499-a241-b716a297eb64">15 Use of business names</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr16-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk2d5699e9-4865-473c-bb1e-dafb2f642526" /> <label for="chk2d5699e9-4865-473c-bb1e-dafb2f642526">16 Reservation of business names</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr17-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkc213e0cc-5e2f-4947-9f37-1e4c5976d4d3" /> <label for="chkc213e0cc-5e2f-4947-9f37-1e4c5976d4d3">17 Restrictions on registration of business names</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr18-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk809e3540-a296-474b-a5d4-8df5165fa2d1" /> <label for="chk809e3540-a296-474b-a5d4-8df5165fa2d1">18 Change of registered business name</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr19-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk74781986-8295-43c9-a9f0-66fb5a0beac3" /> <label for="chk74781986-8295-43c9-a9f0-66fb5a0beac3">19 Change of residential address</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr20-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk07696ec2-7249-40d7-b413-1c5869faa0b4" /> <label for="chk07696ec2-7249-40d7-b413-1c5869faa0b4">20 Registration of change in particulars</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr21-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk8cb489fb-8f35-4e67-8b3c-3dfc67df288d" /> <label for="chk8cb489fb-8f35-4e67-8b3c-3dfc67df288d">21 Deceased registrants</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr22-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk97a0b4e1-7cec-4f65-a61d-f70159792872" /> <label for="chk97a0b4e1-7cec-4f65-a61d-f70159792872">22 Cessation of business</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr23-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkb65b2874-2e5c-42df-bb70-398598da7819" /> <label for="chkb65b2874-2e5c-42df-bb70-398598da7819">23 Cancellation of registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr24-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk3fcce8e7-3dff-407b-91ef-69111369a735" /> <label for="chk3fcce8e7-3dff-407b-91ef-69111369a735">24 Restoration of registration</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr25-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkd46f335e-28c5-47c1-9989-aebabcd39ee7" /> <label for="chkd46f335e-28c5-47c1-9989-aebabcd39ee7">25 Rectification by General Division of High Court</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr26-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk9840c3bc-b960-4774-8ecd-f27308872b79" /> <label for="chk9840c3bc-b960-4774-8ecd-f27308872b79">26 Rectification by Registrar on application</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr27-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chkd52d2b28-7406-44ca-81aa-370cd2ff229e" /> <label for="chkd52d2b28-7406-44ca-81aa-370cd2ff229e">27 Rectification or updating on Registrar’s initiative</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr28-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk3adfa6f3-47b7-422d-9850-da8e23a56461" /> <label for="chk3adfa6f3-47b7-422d-9850-da8e23a56461">28 Request for copy of notice of registration, etc.</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr29-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk2463729d-647f-4561-b774-aa6c3f797fed" /> <label for="chk2463729d-647f-4561-b774-aa6c3f797fed">29 Electronic transaction system</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr30-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk02e57327-0f64-485f-bdee-473b5802e735" /> <label for="chk02e57327-0f64-485f-bdee-473b5802e735">30 Transitional provision for contact address</label></div></blockquote></div><div class="showText_fbcb8e21-a955-43dd-8f3a-7a78be419959" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr31-" class="form-check-input childID" data-id="fbcb8e21-a955-43dd-8f3a-7a78be419959" data-id2="" id="chk937452c7-ae59-44be-a9b9-a481f41def59" /> <label for="chk937452c7-ae59-44be-a9b9-a481f41def59">31 Disability of persons in default</label></div></blockquote></div><p class="HeadingParagraph filter"><a style="font-size:1.1em" class="displayText" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" href="#"><span class="fa fa-caret-right"></span></a><input class="form-check-input" type="checkbox" name="item" value="P13-" id="PartID_fbed54a3-9da7-4a04-bce3-e30d3671d492"  /> <label for="PartID_fbed54a3-9da7-4a04-bce3-e30d3671d492"><b>Part 3 MISCELLANEOUS</b></label></p><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr32-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chka03a8fbf-2aee-4a3e-9628-34f39b545694" /> <label for="chka03a8fbf-2aee-4a3e-9628-34f39b545694">32 Inspection</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr33-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk324aaf14-d709-447f-9e8d-8183c483b62c" /> <label for="chk324aaf14-d709-447f-9e8d-8183c483b62c">33 Power of Registrar to obtain further information</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr34-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chkf94bc62c-52e7-45e8-93a0-466586adb4b7" /> <label for="chkf94bc62c-52e7-45e8-93a0-466586adb4b7">34 Restriction on undischarged bankrupt carrying on business</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr35-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk5d6a5fcf-7e63-4e21-99f1-d8435dd1fde4" /> <label for="chk5d6a5fcf-7e63-4e21-99f1-d8435dd1fde4">35 Offences and penalties</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr36-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk2bdf3a71-1144-4d8d-b896-54def1e22a24" /> <label for="chk2bdf3a71-1144-4d8d-b896-54def1e22a24">36 Evidence of carrying on business under business name</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr37-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk3e5102f3-874d-4e3d-9e3d-d007eee175b3" /> <label for="chk3e5102f3-874d-4e3d-9e3d-d007eee175b3">37 Composition of offences</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr38-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk1f760302-35ad-4df7-a38d-7e3a38813ffc" /> <label for="chk1f760302-35ad-4df7-a38d-7e3a38813ffc">38 Destruction or transfer of old records</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr39-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk46fd0fef-c060-4ea9-8e9e-4eff524443f9" /> <label for="chk46fd0fef-c060-4ea9-8e9e-4eff524443f9">39 Enforcement of duty to make returns</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr40-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk44069d71-c998-447d-8940-c1d7f6f578cb" /> <label for="chk44069d71-c998-447d-8940-c1d7f6f578cb">40 Offences by bodies corporate, etc.</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr41-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chkcb0476e8-7d61-43bb-b707-5593069e6c95" /> <label for="chkcb0476e8-7d61-43bb-b707-5593069e6c95">41 Authority and its employees not liable</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr42-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk430f56d5-7b2c-46a2-a473-0add4b4b3df5" /> <label for="chk430f56d5-7b2c-46a2-a473-0add4b4b3df5">42 Service of documents, etc.</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr43-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk07074e1b-baf7-40a3-bdd2-d89561144e9a" /> <label for="chk07074e1b-baf7-40a3-bdd2-d89561144e9a">43 Regulations</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr44-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk28a3af09-cf48-47c9-a5c5-22f3d56ce4d1" /> <label for="chk28a3af09-cf48-47c9-a5c5-22f3d56ce4d1">44 Saving for other written law</label></div></blockquote></div><div class="showText_fbed54a3-9da7-4a04-bce3-e30d3671d492" style="display:none"><blockquote class="TocParagraph" style="margin: 0px 0px 2pt 15pt;text-indent:20pt"><div><input type="checkbox" name="item" value="pr45-" class="form-check-input childID" data-id="fbed54a3-9da7-4a04-bce3-e30d3671d492" data-id2="" id="chk3ac6f5df-a9da-4034-a7b1-cfab31a3cf03" /> <label for="chk3ac6f5df-a9da-4034-a7b1-cfab31a3cf03">45 Saving and transitional provisions</label></div></blockquote></div><p class="HeadingParagraph filter"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="xv-" id="chk4c6e6839-6920-48aa-bc89-cb2100b35c5b" /> <label for="chk4c6e6839-6920-48aa-bc89-cb2100b35c5b"><b>Legislative History</b></label></p><p class="HeadingParagraph filter"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="xv-ta-oc2-" id="chkLEGISLATION_ABBREVIATIONS" /> <label for="chkLEGISLATION_ABBREVIATIONS"><b>Abbreviations</b></label></p><p class="HeadingParagraph filter"><span class="whitespace">&nbsp;</span><input class="form-check-input" type="checkbox" name="item" value="xy-" id="chkf3889870-104b-4647-9396-b22454d67e68" /> <label for="chkf3889870-104b-4647-9396-b22454d67e68"><b>Comparative Table</b></label></p></div>
+        
+    </div>
+    <div class="visible-xs print-btn">
+        <div class="row">
+            <div class="col-8 no-side-padding">
+                <button type="button" class="btn btn-default" data-bind="click: onSelectAllClick">Select All</button>
+                <button type="button" class="btn btn-default" data-bind="click: onClearAllClick">Clear All</button>
+            </div>
+            <div class="col-4 no-side-padding">
+                <div class="btn-group dropup">
+                    <button type="button" class="btn btn-default" id="mobilePrintMenu" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Print <span class="fa fa-2x fa-angle-up"></span></button>
+
+                    <ul class="dropdown-menu dropdown-menu-right dropup" aria-labelledby="mobilePrintMenu">
+                            <li><a href="#" class="dropdown-item" data-bind="click: onPrintToHtmlClick">HTML</a></li>
+                        <li><a href="#" class="dropdown-item" data-bind="click: onPrintToPdfClick">PDF</a></li>
+                        <li><a href="#" class="dropdown-item" data-bind="click: onPrintToWordClick">Word</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+            </div>
+        </div><!-- /.modal-content -->
+    </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<div id="Container">
+    <div class="row hidden-xs hidden-sm breadcrumb" id="breadcrumb">
+        <div class="col-md-7">
+        </div>
+        <div class="col-md-5 text-end">
+        </div>
+    </div>
+    <div class="hidden-xs hidden-sm" id="DesktopShowToc" data-bind="visible: !Show.Sidebar()" style="display: none;">
+        
+        <a href="#" data-bind="click: ToggleSidebar">
+            <img src="/CMS/Content/Images/toc-vertical2.png" alt="Table Of Contents" />
+        </a>
+    </div>
+
+
+    <div class="row">
+        <div class="col-lg-4 col-12 scrollspy" id="sidebar" data-bind="visible: Show.Sidebar">
+            <div id="nav">
+                <div class="top-left-panel" data-bind="visible: Show.TopLeftPanel" id="topLeftPanel">
+                    <a href="#" data-bind="click: ToggleSidebar" class="right-close-btn hidden-xs hidden-sm" aria-label="Close Table of Content" title="Close Table of Content">
+                        <span class="fa fa-2x fa-close"></span>
+                    </a>
+
+                    <div class="legis-title">
+    
+    <span>Business Names Registration Act 2014</span>
+        <a href="/Act/BNRA2014?ViewType=Pdf&amp;_=20251219123137" title="Download PDF (251.0 KB)" aria-label="Download PDF (251.0 KB)" data-size=" (251.0 KB)" class="file-download">
+            <span class="fa fa-file-pdf-o"></span>
+        </a>
+</div>
+
+<div class="status-row">
+    <div class="status-caption">
+        Status:<br />&nbsp;
+    </div>
+    <div class="status-value">
+        Current version<br />as at 31 May 2026
+            <a id="showStatusInfo" href="#" class="show-status-info" aria-label="Show Status Info">
+                <span class="fa fa-info-circle"></span>
+            </a>
+        <div id="statusInfo" style="display: none"><div class="status-info">Please check the legislation timeline to ensure that you are viewing the correct legislation version. See also <a href="https://sso.agc.gov.sg/Help/FAQ#FAQ_21" class="non-ajax">FAQ B3</a>.</div></div>
+    </div>
+</div>
+
+
+                    <div class="section-title hidden-xs hidden-sm" data-bind="html: SectionTitle2, attr: { 'title': SectionTitle }" data-bs-toggle="tooltip" data-placement="bottom" title="">
+                    </div>
+                    <div class="section-title visible-xs visible-sm" data-bind="html: SectionTitle1, attr: { 'title': SectionTitle }" data-bs-toggle="tooltip" data-placement="bottom" title="">
+                    </div>
+                </div>
+
+                <div class="mobile-toolbar-buttons" data-bind="visible: Show.MobileToolbar" id="mobileToolbar" style="display: none">
+                    <div data-bind="visible: Show.SearchWithin" class="search-within-mobile" style="display: none">
+                        <form method="get" action="/Act/BNRA2014?ViewType=Within" data-bind="submit: SubmitSearchWithin">
+                            <div class="input-group has-clear-button">
+                                <button type="button" class="btn btn-default btn-back" data-bind="click: HideSearchWithin"><span class="fa fa-angle-left"></span></button>
+                                <input type="text" class="form-control" data-bind="value: SearchWithinPhrase" placeholder="Search Within Legislation" name="Phrase" id="searchPhraseMobile" />
+                                <button type="button" class="btn btn-default clear-button"><i class="fa fa-close"></i></button>
+                                <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                            </div>
+                        </form>
+                    </div>
+                    <div data-bind="visible: !Show.SearchWithin()">
+                        <button type="button" class="btn btn-default" data-bind="click: ShowMobileToc" aria-label="Table of Contents"><span class="fa fa-2x fa-list-ul"></span></button>
+                            <button type="button" class="btn btn-default" data-bind="click: ShowMobileTimeline" aria-label="Timeline"><span class="fa fa-2x fa-timeline"></span></button>
+                                                    <button type="button" class="btn btn-default" id="searchWithinMobile" data-bind="click: ShowSearchWithin" aria-label="Search Within"><span class="fa fa-2x fa-search"></span></button>
+                        <button type="button" class="btn btn-default dropdown2-toggle" style="float: right;" id="mobileActions" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" aria-label="Actions"><span class="fa fa-2x fa-ellipsis-v"></span></button>
+
+                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="mobileActions">
+                                <li><a class="dropdown-item" href="/Act/BNRA2014?ViewType=Sl">Subsidiary Legislation</a></li>
+                                                                <li><a class="dropdown-item" href="#" id="mobileToggleAnnotate">Hide Amendment Annotation</a></li>
+
+                                    <li><a class="dropdown-item add-to-collection" href="/Act/BNRA2014" data-legisTitle="Business Names Registration Act 2014">Add to My Collections</a></li>
+                                                                    <li><a class="dropdown-item" href="/Act/BNRA2014?ViewType=Rss">Amendments RSS Feed</a></li>
+                            <li><a class="dropdown-item" href="/Act/BNRA2014?ViewType=Print" data-bind="click: OnPrintClick" id="printLink">Print</a></li>
+                                <li><a class="dropdown-item help" href="/Help/SSO-Guide/Category/4">Help</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                    <div class="toc-panel mobile-timeline" data-bind="visible: Show.MobileTimeline" style="display: none">
+                        <div class="toc-title">
+                            Timeline
+                            <a href="#" data-bind="click: HideMobileTimeline" class="right-close-btn">
+                                <span class="fa fa-2x fa-close"></span>
+                            </a>
+                        </div>
+                        <ul class="nav nav-tabs">
+                            <li role="presentation"><a class="nav-link" href="#" data-bind="click: ShowMobileDocTimeline, css: { 'active': Show.MobileDocTimeline }">Document</a></li>
+                            <li role="presentation"><a class="nav-link" href="#" data-bind="click: ShowMobileProvTimeline, css: { 'active': Show.MobileProvTimeline }">Provision</a></li>
+                        </ul>
+                        <div style="display: none" data-bind="visible: Show.MobileDocTimeline" class="doc-timeline-form">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="row">
+                                        <div class="col-6 col-sm-3 no-side-padding" style="padding-top: 10px">Versions</div>
+                                        <div class="col-6 no-side-padding">
+                                            <button type="button" class="btn btn-default" id="versionsButton2">
+                                                09 Jun 2025
+                                                
+                                                <span class="fa fa-caret-down"></span>
+                                            </button>
+                                            <span>or</span>
+                                        </div>
+                                    </div>
+                                    <div class="row" style="margin-top: 10px;">
+                                        <div class="col-6 col-sm-3 no-side-padding" style="padding-right: 5px;">find current version as at</div>
+                                        <div class="col-6 no-side-padding">
+                                            <a href="#" class="btn btn-default datepicker-trigger">
+                                                <input type="hidden" id="versionDateHidden" />
+                                                09 Jun 2025
+                                                &nbsp;&nbsp;<span class="fa fa-th"></span>
+                                            </a>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div id="mobileDocTimeline" class="timeline" style="display: none" data-bind="visible: Show.MobileDocTimeline">
+                                    <ul class="left">
+        <li class="mobile">
+            <div class="title_top">
+                &nbsp;
+            </div>
+            <div class="title"><span class="right-arrow">&nbsp;</span></div>
+        </li>
+                <li class="mobile selected" data-id="b6b3c7ed-7cf9-486a-ba49-30c1fdb090c6">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014?ValidDate=20250609&amp;ViewType=Pdf&amp;_=20251219123137" aria-label="Download PDF (251.0 KB)" title="Download PDF (251.0 KB)" data-size=" (251.0 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014?ValidDate=20250609" rel="">
+                                09 Jun 2025
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014?ValidDate=20250609" class="timeline-popover" title="Published Date" data-date="07 Aug 2024" aria-label="Published Date" rel="">
+                        <div class="status informal">
+                                <span class="dot_selected"></span>
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=e7b59635-efc2-41f4-90e4-d11300d1b38e&amp;SourceValidDate=20250609&amp;SourceTransactionDate=20240807&amp;SourcePublishDate=20240807&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=22&amp;SourceYear=2024" target="_blank">Act 22 of 2024</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="7ff84fbb-8fe4-4c0c-a459-8e77c983eb94">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209&amp;ViewType=Pdf&amp;_=20251219123137" aria-label="Download PDF (251.4 KB)" title="Download PDF (251.4 KB)" data-size=" (251.4 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209" rel="nofollow">
+                                09 Dec 2024
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209" class="timeline-popover" title="Published Date" data-date="07 Aug 2024" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=751e00f9-0327-4d20-9b40-91dcbbbc7749&amp;SourceValidDate=20241209&amp;SourceTransactionDate=20240807&amp;SourcePublishDate=20240807&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=21&amp;SourceYear=2024" target="_blank">Act 21 of 2024</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="3bb70bcb-df38-4fee-b51e-00d9e5024269">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101&amp;ViewType=Pdf&amp;_=20250508195815" aria-label="Download PDF (256.1 KB)" title="Download PDF (256.1 KB)" data-size=" (256.1 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101" rel="nofollow">
+                                01 Nov 2024
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101" class="timeline-popover" title="Published Date" data-date="11 Oct 2024" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=013289b7-4218-40ce-8809-2fd815a62474&amp;SourceValidDate=20241101&amp;SourceTransactionDate=20241011&amp;SourcePublishDate=20241011&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=30&amp;SourceYear=2024" target="_blank">Act 30 of 2024</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="b7ecf964-9983-41f9-919e-088bf27c50ce">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226&amp;ViewType=Pdf&amp;_=20251231121041" aria-label="Download PDF (254.9 KB)" title="Download PDF (254.9 KB)" data-size=" (254.9 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226" rel="nofollow">
+                                26 Feb 2024
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226" class="timeline-popover" title="Published Date" data-date="21 Feb 2024" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=15387593-199d-4ee8-9c10-03d4374387ea&amp;SourceValidDate=20240226&amp;SourceTransactionDate=20240221&amp;SourcePublishDate=20240221&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=3&amp;SourceYear=2024" target="_blank">Act 3 of 2024</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="83858c56-e6e8-4b8d-9f92-d71e43ca708b">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401&amp;ViewType=Pdf&amp;_=20260331085753" aria-label="Download PDF (253.6 KB)" title="Download PDF (253.6 KB)" data-size=" (253.6 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401" rel="nofollow">
+                                01 Apr 2022
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401" class="timeline-popover" title="Published Date" data-date="11 Oct 2021" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=d8ed4107-a7a8-44e2-9ed5-2b5a9ef853fd&amp;SourceValidDate=20220401&amp;SourceTransactionDate=20211011&amp;SourcePublishDate=20211011&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=25&amp;SourceYear=2021" target="_blank">Act 25 of 2021</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="e48bbe4e-3b88-4362-8a56-afebce9e7b1d">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231&amp;ViewType=Pdf&amp;_=20260331094444" aria-label="Download PDF (298.5 KB)" title="Download PDF (298.5 KB)" data-size=" (298.5 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231" rel="nofollow">
+                                31 Dec 2021
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231" class="timeline-popover" title="Published Date" data-date="31 Dec 2021" aria-label="Published Date" rel="nofollow">
+                        <div class="status">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                            <span>
+                                                2020 RevEd
+                                            </span>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="53e5743e-0a53-49bc-a857-8899e20293db">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102&amp;ViewType=Pdf&amp;_=20260331094639" aria-label="Download PDF (185.5 KB)" title="Download PDF (185.5 KB)" data-size=" (185.5 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102" rel="nofollow">
+                                02 Jan 2021
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102" class="timeline-popover" title="Published Date" data-date="12 Dec 2019" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=c6a50fcb-3c45-45ba-b287-05398e02e20b&amp;SourceValidDate=20210102&amp;SourceTransactionDate=20191212&amp;SourcePublishDate=20191212&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=40&amp;SourceYear=2019" target="_blank">Act 40 of 2019</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="9136f350-2fb6-440d-922b-4bb6fb56a234">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730&amp;ViewType=Pdf&amp;_=20260331092540" aria-label="Download PDF (184.5 KB)" title="Download PDF (184.5 KB)" data-size=" (184.5 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730" rel="nofollow">
+                                30 Jul 2020
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730" class="timeline-popover" title="Published Date" data-date="13 Feb 2020" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=b7e2cf3a-c0a3-4932-bbfb-e5d889b5a5dd&amp;SourceValidDate=20210701&amp;SourceTransactionDate=20200213&amp;SourcePublishDate=20181107&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=40&amp;SourceYear=2018" target="_blank">Act 40 of 2018</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="b7478f17-6113-4a33-8744-304916673a06">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011&amp;ViewType=Pdf&amp;_=20260122200811" aria-label="Download PDF (192.3 KB)" title="Download PDF (192.3 KB)" data-size=" (192.3 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011" rel="nofollow">
+                                11 Oct 2017
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011" class="timeline-popover" title="Published Date" data-date="30 Mar 2017" aria-label="Published Date" rel="nofollow">
+                        <div class="status informal">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                    <span>
+                                        Amended by
+                                    </span>
+                                    <br />
+                                    <a href="/Details/GetAmendingLegislation?SourceDocumentId=dd7854a6-b463-4af8-8ab6-7767204f2947&amp;SourceValidDate=20171011&amp;SourceTransactionDate=20170330&amp;SourcePublishDate=20170330&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=15&amp;SourceYear=2017" target="_blank">Act 15 of 2017</a>
+
+                        </div>
+                    </div>
+                </li>
+                <li class="mobile " data-id="835dfa59-401b-4c44-bd27-96d5c10b5f25">
+                    <div class="timestamp">
+                        <span>
+                                <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103&amp;ViewType=Pdf&amp;_=20250508201732" aria-label="Download PDF (183.4 KB)" title="Download PDF (183.4 KB)" data-size=" (183.4 KB)" class="file-download">
+                                    <span class="fa fa-file-pdf-o"></span>
+                                </a>
+                            <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103" rel="nofollow">
+                                03 Jan 2016
+                            </a>
+                        </span>
+                    </div>
+                    <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103" class="timeline-popover" title="Published Date" data-date="24 Nov 2014" aria-label="Published Date" rel="nofollow">
+                        <div class="status">
+                                                    </div>
+                    </a>
+                    <div class="group_status">
+                        <div>
+                                            <span>
+                                                Act 29 of 2014
+                                            </span>
+
+                        </div>
+                    </div>
+                </li>
+
+    </ul>
+
+                            </div>
+
+                            <div id="mobileProvTimeline" class="timeline" style="display: none" data-bind="visible: Show.MobileProvTimeline">
+                                <ul class="left">
+    <li class="mobile">
+        <div class="title_top">
+            &nbsp;
+        </div>
+        <div class="title"><span class="right-arrow">&nbsp;</span></div>
+    </li>
+
+</ul>
+
+                            </div>
+                        </div>
+                    </div>
+
+                <div class="toc-panel" data-bind="visible: Show.Toc" style="display: none;" id="tocPanel">
+                    <div class="toc-title" id="tocTitle">
+                        Table of Contents
+                        <a href="#" data-bind="click: HideMobileToc" class="right-close-btn visible-xs visible-sm">
+                            <span class="fa fa-2x fa-close"></span>
+                        </a>
+                    </div>
+                    <div id="tocNav" class="scrollable-panel">
+                        
+
+
+<nav id="toc" class="navbar navbar-light bg-white flex-column align-items-stretch toc">
+                <a class="nav-link" href="#top">
+                    <b>
+                        Business Names Registration Act 2014
+                        <br />
+                        
+                    </b>
+                </a>
+                        <a class="nav-link" href="#al-">
+                            <b>Long Title</b>
+                        </a>
+                        <a class="nav-link" href="#P11-">
+                            <b>Part 1 PRELIMINARY</b>
+                        </a>
+                        <nav class="nav nav-pills flex-column">
+                        <a class="nav-link " href="#pr1-" data-part="P11-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr1-" name="item"  id="tocItem5" title="1" />&nbsp;
+                            </div>
+                            <span>
+                                1 Short title
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr2-" data-part="P11-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr2-" name="item"  id="tocItem6" title="2" />&nbsp;
+                            </div>
+                            <span>
+                                2 Interpretation
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr3-" data-part="P11-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr3-" name="item"  id="tocItem7" title="3" />&nbsp;
+                            </div>
+                            <span>
+                                3 Administration of Act and appointment of Registrar of Business Names, etc.
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr4-" data-part="P11-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr4-" name="item"  id="tocItem8" title="4" />&nbsp;
+                            </div>
+                            <span>
+                                4 Persons not required to be registered under Act
+                            </span>
+                        </a>
+                            </nav>
+                        <a class="nav-link" href="#P12-">
+                            <b>Part 2 REGISTRATION</b>
+                        </a>
+                        <nav class="nav nav-pills flex-column">
+                        <a class="nav-link " href="#pr5-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr5-" name="item"  id="tocItem10" title="5" />&nbsp;
+                            </div>
+                            <span>
+                                5 Requirement to register
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr6-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr6-" name="item"  id="tocItem11" title="6" />&nbsp;
+                            </div>
+                            <span>
+                                6 Manner and particulars of registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr7-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr7-" name="item"  id="tocItem12" title="7" />&nbsp;
+                            </div>
+                            <span>
+                                7 Registration by nominee or trustee
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr8-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr8-" name="item"  id="tocItem13" title="8" />&nbsp;
+                            </div>
+                            <span>
+                                8 Registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr9-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr9-" name="item"  id="tocItem14" title="9" />&nbsp;
+                            </div>
+                            <span>
+                                9 When registration must be refused
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr10-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr10-" name="item"  id="tocItem15" title="10" />&nbsp;
+                            </div>
+                            <span>
+                                10 Registration does not confer ownership
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr11-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr11-" name="item"  id="tocItem16" title="11" />&nbsp;
+                            </div>
+                            <span>
+                                11 Authorised representative
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr12-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr12-" name="item"  id="tocItem17" title="12" />&nbsp;
+                            </div>
+                            <span>
+                                12 General power to cancel registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr13-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr13-" name="item"  id="tocItem18" title="13" />&nbsp;
+                            </div>
+                            <span>
+                                13 Supplemental provision to sections 9 and 12
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr14-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr14-" name="item"  id="tocItem19" title="14" />&nbsp;
+                            </div>
+                            <span>
+                                14 Cancellation for failure to renew registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr15-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr15-" name="item"  id="tocItem20" title="15" />&nbsp;
+                            </div>
+                            <span>
+                                15 Use of business names
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr16-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr16-" name="item"  id="tocItem21" title="16" />&nbsp;
+                            </div>
+                            <span>
+                                16 Reservation of business names
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr17-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr17-" name="item"  id="tocItem22" title="17" />&nbsp;
+                            </div>
+                            <span>
+                                17 Restrictions on registration of business names
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr18-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr18-" name="item"  id="tocItem23" title="18" />&nbsp;
+                            </div>
+                            <span>
+                                18 Change of registered business name
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr19-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr19-" name="item"  id="tocItem24" title="19" />&nbsp;
+                            </div>
+                            <span>
+                                19 Change of residential address
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr20-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr20-" name="item"  id="tocItem25" title="20" />&nbsp;
+                            </div>
+                            <span>
+                                20 Registration of change in particulars
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr21-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr21-" name="item"  id="tocItem26" title="21" />&nbsp;
+                            </div>
+                            <span>
+                                21 Deceased registrants
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr22-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr22-" name="item"  id="tocItem27" title="22" />&nbsp;
+                            </div>
+                            <span>
+                                22 Cessation of business
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr23-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr23-" name="item"  id="tocItem28" title="23" />&nbsp;
+                            </div>
+                            <span>
+                                23 Cancellation of registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr24-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr24-" name="item"  id="tocItem29" title="24" />&nbsp;
+                            </div>
+                            <span>
+                                24 Restoration of registration
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr25-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr25-" name="item"  id="tocItem30" title="25" />&nbsp;
+                            </div>
+                            <span>
+                                25 Rectification by General Division of High Court
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr26-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr26-" name="item"  id="tocItem31" title="26" />&nbsp;
+                            </div>
+                            <span>
+                                26 Rectification by Registrar on application
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr27-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr27-" name="item"  id="tocItem32" title="27" />&nbsp;
+                            </div>
+                            <span>
+                                27 Rectification or updating on Registrar’s initiative
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr28-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr28-" name="item"  id="tocItem33" title="28" />&nbsp;
+                            </div>
+                            <span>
+                                28 Request for copy of notice of registration, etc.
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr29-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr29-" name="item"  id="tocItem34" title="29" />&nbsp;
+                            </div>
+                            <span>
+                                29 Electronic transaction system
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr30-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr30-" name="item"  id="tocItem35" title="30" />&nbsp;
+                            </div>
+                            <span>
+                                30 Transitional provision for contact address
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr31-" data-part="P12-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr31-" name="item"  id="tocItem36" title="31" />&nbsp;
+                            </div>
+                            <span>
+                                31 Disability of persons in default
+                            </span>
+                        </a>
+                            </nav>
+                        <a class="nav-link" href="#P13-">
+                            <b>Part 3 MISCELLANEOUS</b>
+                        </a>
+                        <nav class="nav nav-pills flex-column">
+                        <a class="nav-link " href="#pr32-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr32-" name="item"  id="tocItem38" title="32" />&nbsp;
+                            </div>
+                            <span>
+                                32 Inspection
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr33-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr33-" name="item"  id="tocItem39" title="33" />&nbsp;
+                            </div>
+                            <span>
+                                33 Power of Registrar to obtain further information
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr34-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr34-" name="item"  id="tocItem40" title="34" />&nbsp;
+                            </div>
+                            <span>
+                                34 Restriction on undischarged bankrupt carrying on business
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr35-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr35-" name="item"  id="tocItem41" title="35" />&nbsp;
+                            </div>
+                            <span>
+                                35 Offences and penalties
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr36-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr36-" name="item"  id="tocItem42" title="36" />&nbsp;
+                            </div>
+                            <span>
+                                36 Evidence of carrying on business under business name
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr37-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr37-" name="item"  id="tocItem43" title="37" />&nbsp;
+                            </div>
+                            <span>
+                                37 Composition of offences
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr38-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr38-" name="item"  id="tocItem44" title="38" />&nbsp;
+                            </div>
+                            <span>
+                                38 Destruction or transfer of old records
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr39-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr39-" name="item"  id="tocItem45" title="39" />&nbsp;
+                            </div>
+                            <span>
+                                39 Enforcement of duty to make returns
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr40-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr40-" name="item"  id="tocItem46" title="40" />&nbsp;
+                            </div>
+                            <span>
+                                40 Offences by bodies corporate, etc.
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr41-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr41-" name="item"  id="tocItem47" title="41" />&nbsp;
+                            </div>
+                            <span>
+                                41 Authority and its employees not liable
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr42-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr42-" name="item"  id="tocItem48" title="42" />&nbsp;
+                            </div>
+                            <span>
+                                42 Service of documents, etc.
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr43-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr43-" name="item"  id="tocItem49" title="43" />&nbsp;
+                            </div>
+                            <span>
+                                43 Regulations
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr44-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr44-" name="item"  id="tocItem50" title="44" />&nbsp;
+                            </div>
+                            <span>
+                                44 Saving for other written law
+                            </span>
+                        </a>
+                        <a class="nav-link " href="#pr45-" data-part="P13-">
+                            <div class="form-check">
+                                <input class="form-check-input" type="checkbox" value="pr45-" name="item"  id="tocItem51" title="45" />&nbsp;
+                            </div>
+                            <span>
+                                45 Saving and transitional provisions
+                            </span>
+                        </a>
+                            </nav>
+                        <a class="nav-link" href="#xv-">
+                            <b>Legislative History</b>
+                        </a>
+                        <a class="nav-link" href="#xv-ta-oc2-">
+                            <b>Abbreviations</b>
+                        </a>
+                        <a class="nav-link" href="#xy-">
+                            <b>Comparative Table</b>
+                        </a>
+
+</nav>
+
+
+                    </div>
+                    <div class="row" id="tocButton">
+                        <div class="col-12 toc-bottom">
+                            <button type="button" class="btn btn-default btn-sm" data-bind="click: OnClearProvisions">Reset</button>
+                            <button type="button" class="btn btn-primary btn-sm" data-bind="click: OnGetProvisions">Get Provisions</button>
+                            <button type="button" class="btn btn-primary btn-sm" data-bind="click: function () { window.location = '/Act/BNRA2014?WholeDoc=1'; }" style="" id="wholeDoc">Whole Document</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <script src="/bundles/details-resize?v=8yG9IeaPD47smcpbQ22zjoNarFMiQCr7x78ytL_dHEQ1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+        </div>
+        <div class="col-lg-8 col-12 col-legis" id="colLegis" data-bind="css: { 'col-lg-8': Show.Sidebar, 'col-lg-12': !Show.Sidebar() }, visible: Show.Legis">
+
+            <div id="DesktopToolbar" class="hidden-xs hidden-sm">
+                <div data-bind="visible: !Show.Sidebar()" class="top-left-panel-2" style="display: none">
+                    <div class="legis-title">
+    <span>Business Names Registration Act 2014</span>
+        <a href="/Act/BNRA2014?ViewType=Pdf&amp;_=20251219123137" title="Download PDF (251.0 KB)" aria-label="Download PDF (251.0 KB)" data-size=" (251.0 KB)" class="file-download">
+            <span class="fa fa-file-pdf-o"></span>
+        </a>
+</div>
+
+<div class="status-row">
+    <div class="status-caption">
+        Status:
+    </div>
+    <div class="status-value">
+        Current version as at 31 May 2026
+    </div>
+</div>
+
+                </div>
+
+                <div class="section-title" data-bind="visible: !Show.Sidebar()">
+                    
+                    <div data-bind="html: SectionTitle1, attr: { 'title': SectionTitle }" data-bs-toggle="tooltip" data-placement="bottom" title=""></div>
+                </div>
+
+                <div class="row desktop-toolbar">
+                    <div class="col-md-12 no-side-padding">
+                        <ul class="nav nav-pills float-start">
+                                <li data-bind="css: { 'dropup': Show.DesktopTimeline }">
+                                    <a class="dropdown-toggle" href="#" data-bind="click: ToggleDesktopTimeline">
+                                        Timeline
+                                    </a>
+                                </li>
+
+                                    <li>
+                                        <a href="/Act/BNRA2014?ViewType=Sl">Subsidiary Legislation</a>
+                                    </li>
+                            
+
+                                    <li><a href="#"><input type="checkbox" checked="checked" id="ToggleAnnotate" />&nbsp;<label for="ToggleAnnotate">Amendment Annotation</label></a></li>
+
+
+                        </ul>
+                        <ul class="nav nav-pills float-end">
+                            
+                            <li id="loadingIndicator" style="display: none"><span>Loading...</span><span><i class="ajax-loading3"></i></span></li>
+                                    <li class="dropdown">
+                                        <a href="#" class="dropdown2-toggle" id="Actions" role="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            Actions
+                                            <span class="fa fa-caret-down"></span>
+                                        </a>
+                                        <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="Actions">
+
+                                                <li><a class="dropdown-item add-to-collection" href="/Act/BNRA2014" data-legisTitle="Business Names Registration Act 2014">Add to My Collections</a></li>
+
+                                                <li><a class="dropdown-item" href="/Act/BNRA2014?ViewType=Rss">Amendments RSS Feed</a></li>
+                                        </ul>
+                                    </li>
+                                <li>
+                                    <a href="/Act/BNRA2014?ViewType=Print" data-bind="click: OnPrintClick" aria-label="Print" title="Print"><span class="fa fa-print"></span></a>
+                                </li>
+                                    <li>
+                                        <a href="/Act/BNRA2014?ViewType=Within" aria-label="Search Within Legislation" title="Search Within Legislation" data-bind="click: ShowSearchWithin">
+                                            <span class="fa fa-search"></span>
+                                        </a>
+                                    </li>
+                                                            <li>
+                                    <a href="/Help/SSO-Guide/Category/4" aria-label="Help" title="Help" class="help">
+                                        <span class="fa fa-question-circle"></span>
+                                    </a>
+                                </li>
+                        </ul>
+                    </div>
+                </div>
+
+                
+
+                    <div class="desktop-timeline hidden-xs hidden-sm" data-bind="visible: Show.DesktopTimeline" style="display: none">
+                        <ul class="nav nav-tabs">
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="#" data-bind="css: { 'active': Show.DesktopDocTimeline }, click: ShowDesktopDocTimeline">Document</a></li>
+                            <li class="nav-item" role="presentation"><a class="nav-link" href="#" data-bind="css: { 'active': Show.DesktopProvTimeline }, click: ShowDesktopProvTimeline">Provision</a></li>
+                        </ul>
+                        <div class="timeline" id="docTimeline" style="display: none" data-bind="visible: Show.DesktopDocTimeline">
+                            <ul>
+            <li class="" data-id="835dfa59-401b-4c44-bd27-96d5c10b5f25">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103" rel="nofollow">
+                            03 Jan 2016
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103&amp;ViewType=Pdf&amp;_=20250508201732" aria-label="Download PDF (183.4 KB)" title="Download PDF (183.4 KB)" data-size=" (183.4 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103" class="timeline-popover" title="Published Date" data-date="24 Nov 2014" aria-label="Published Date" rel="nofollow">
+                    <div class="status">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                            <span>
+                                                Act 29 of 2014
+                                            </span>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="b7478f17-6113-4a33-8744-304916673a06">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011" rel="nofollow">
+                            11 Oct 2017
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011&amp;ViewType=Pdf&amp;_=20260122200811" aria-label="Download PDF (192.3 KB)" title="Download PDF (192.3 KB)" data-size=" (192.3 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011" class="timeline-popover" title="Published Date" data-date="30 Mar 2017" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=dd7854a6-b463-4af8-8ab6-7767204f2947&amp;SourceValidDate=20171011&amp;SourceTransactionDate=20170330&amp;SourcePublishDate=20170330&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=15&amp;SourceYear=2017" target="_blank">Act 15 of 2017</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="9136f350-2fb6-440d-922b-4bb6fb56a234">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730" rel="nofollow">
+                            30 Jul 2020
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730&amp;ViewType=Pdf&amp;_=20260331092540" aria-label="Download PDF (184.5 KB)" title="Download PDF (184.5 KB)" data-size=" (184.5 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730" class="timeline-popover" title="Published Date" data-date="13 Feb 2020" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=b7e2cf3a-c0a3-4932-bbfb-e5d889b5a5dd&amp;SourceValidDate=20210701&amp;SourceTransactionDate=20200213&amp;SourcePublishDate=20181107&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=40&amp;SourceYear=2018" target="_blank">Act 40 of 2018</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="53e5743e-0a53-49bc-a857-8899e20293db">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102" rel="nofollow">
+                            02 Jan 2021
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102&amp;ViewType=Pdf&amp;_=20260331094639" aria-label="Download PDF (185.5 KB)" title="Download PDF (185.5 KB)" data-size=" (185.5 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102" class="timeline-popover" title="Published Date" data-date="12 Dec 2019" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=c6a50fcb-3c45-45ba-b287-05398e02e20b&amp;SourceValidDate=20210102&amp;SourceTransactionDate=20191212&amp;SourcePublishDate=20191212&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=40&amp;SourceYear=2019" target="_blank">Act 40 of 2019</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="e48bbe4e-3b88-4362-8a56-afebce9e7b1d">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231" rel="nofollow">
+                            31 Dec 2021
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231&amp;ViewType=Pdf&amp;_=20260331094444" aria-label="Download PDF (298.5 KB)" title="Download PDF (298.5 KB)" data-size=" (298.5 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231" class="timeline-popover" title="Published Date" data-date="31 Dec 2021" aria-label="Published Date" rel="nofollow">
+                    <div class="status">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                            <span>
+                                                2020 RevEd
+                                            </span>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="83858c56-e6e8-4b8d-9f92-d71e43ca708b">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401" rel="nofollow">
+                            01 Apr 2022
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401&amp;ViewType=Pdf&amp;_=20260331085753" aria-label="Download PDF (253.6 KB)" title="Download PDF (253.6 KB)" data-size=" (253.6 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401" class="timeline-popover" title="Published Date" data-date="11 Oct 2021" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=d8ed4107-a7a8-44e2-9ed5-2b5a9ef853fd&amp;SourceValidDate=20220401&amp;SourceTransactionDate=20211011&amp;SourcePublishDate=20211011&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=25&amp;SourceYear=2021" target="_blank">Act 25 of 2021</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="b7ecf964-9983-41f9-919e-088bf27c50ce">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226" rel="nofollow">
+                            26 Feb 2024
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226&amp;ViewType=Pdf&amp;_=20251231121041" aria-label="Download PDF (254.9 KB)" title="Download PDF (254.9 KB)" data-size=" (254.9 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226" class="timeline-popover" title="Published Date" data-date="21 Feb 2024" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=15387593-199d-4ee8-9c10-03d4374387ea&amp;SourceValidDate=20240226&amp;SourceTransactionDate=20240221&amp;SourcePublishDate=20240221&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=3&amp;SourceYear=2024" target="_blank">Act 3 of 2024</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="3bb70bcb-df38-4fee-b51e-00d9e5024269">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101" rel="nofollow">
+                            01 Nov 2024
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101&amp;ViewType=Pdf&amp;_=20250508195815" aria-label="Download PDF (256.1 KB)" title="Download PDF (256.1 KB)" data-size=" (256.1 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101" class="timeline-popover" title="Published Date" data-date="11 Oct 2024" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=013289b7-4218-40ce-8809-2fd815a62474&amp;SourceValidDate=20241101&amp;SourceTransactionDate=20241011&amp;SourcePublishDate=20241011&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=30&amp;SourceYear=2024" target="_blank">Act 30 of 2024</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="" data-id="7ff84fbb-8fe4-4c0c-a459-8e77c983eb94">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209" rel="nofollow">
+                            09 Dec 2024
+                        </a>
+                            <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209&amp;ViewType=Pdf&amp;_=20251219123137" aria-label="Download PDF (251.4 KB)" title="Download PDF (251.4 KB)" data-size=" (251.4 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209" class="timeline-popover" title="Published Date" data-date="07 Aug 2024" aria-label="Published Date" rel="nofollow">
+                    <div class="status informal">
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=751e00f9-0327-4d20-9b40-91dcbbbc7749&amp;SourceValidDate=20241209&amp;SourceTransactionDate=20240807&amp;SourcePublishDate=20240807&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=21&amp;SourceYear=2024" target="_blank">Act 21 of 2024</a>
+
+                    </div>
+                </div>
+            </li>
+            <li class="selected" data-id="b6b3c7ed-7cf9-486a-ba49-30c1fdb090c6">
+                <div class="timestamp">
+                    <span>
+                        <a href="/Act/BNRA2014?ValidDate=20250609" rel="">
+                            09 Jun 2025
+                        </a>
+                            <a href="/Act/BNRA2014?ValidDate=20250609&amp;ViewType=Pdf&amp;_=20251219123137" aria-label="Download PDF (251.0 KB)" title="Download PDF (251.0 KB)" data-size=" (251.0 KB)" class="file-download">
+                                <span class="fa fa-file-pdf-o"></span>
+                            </a>
+                    </span>
+                </div>
+                <a href="/Act/BNRA2014?ValidDate=20250609" class="timeline-popover" title="Published Date" data-date="07 Aug 2024" aria-label="Published Date" rel="">
+                    <div class="status informal">
+                            <span class="dot_selected"></span>
+                                            </div>
+                </a>
+                <div class="group_status">
+                    <div>
+                                <span>
+                                    Amended by
+                                </span>
+                                <br />
+                                <a href="/Details/GetAmendingLegislation?SourceDocumentId=e7b59635-efc2-41f4-90e4-d11300d1b38e&amp;SourceValidDate=20250609&amp;SourceTransactionDate=20240807&amp;SourcePublishDate=20240807&amp;SourceDocStatus=published&amp;HistoryType=amend&amp;SourceDocType=act&amp;SourceNo=22&amp;SourceYear=2024" target="_blank">Act 22 of 2024</a>
+
+                    </div>
+                </div>
+            </li>
+
+    <li class="li align_top">
+        <div class="title_top">
+            <span></span>
+        </div>
+        <div class="title"><span class="right-arrow">&nbsp;</span></div>
+    </li>
+</ul>
+                        </div>
+                        <div class="row desktop-timeline-form" style="display: none" data-bind="visible: Show.DesktopDocTimeline">
+                            <div class="col-12 form-inline no-side-padding">
+                                <form id="versionForm" method="get" action="https://sso.agc.gov.sg/Act/BNRA2014" class="row row-cols-lg-auto g-0">
+                                    <div class="col-12">
+                                        <label for="versionsDropdrown">Versions</label>
+                                        <button type="button" class="btn btn-default" id="versionsButton">
+                                            09 Jun 2025
+                                            
+                                            <span class="fa fa-caret-down"></span>
+                                        </button>
+                                        <div id="versionsPopover" style="display: none">
+                                            <div class="scrollable-panel" style="max-height: 145px;">
+                                                <table class="popover-table" role="presentation">
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103">3</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103">Jan</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20160103?DocDate=20170330&amp;ValidDate=20160103">2016</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011">11</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011">Oct</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20171011?DocDate=20181107&amp;ValidDate=20171011">2017</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730">30</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730">Jul</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20200730?DocDate=20191212&amp;ValidDate=20200730">2020</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102">2</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102">Jan</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20210102?DocDate=20211231&amp;ValidDate=20210102">2021</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231">31</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231">Dec</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20211231?DocDate=20211011&amp;ValidDate=20211231">2021</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401">1</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401">Apr</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20220401?DocDate=20240221&amp;ValidDate=20220401">2022</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226">26</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226">Feb</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20240226?DocDate=20241011&amp;ValidDate=20240226">2024</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101">1</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101">Nov</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20241101?DocDate=20240807&amp;ValidDate=20241101">2024</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209">9</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209">Dec</a></td>
+                                                            <td><a href="/Act/BNRA2014/Historical/20241209?DocDate=20240807&amp;ValidDate=20241209">2024</a></td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td>
+                                                                    <span class="fa fa-check"></span>
+                                                            </td>
+                                                            <td class="text-end"><a href="/Act/BNRA2014?ValidDate=20250609">9</a></td>
+                                                            <td><a href="/Act/BNRA2014?ValidDate=20250609">Jun</a></td>
+                                                            <td><a href="/Act/BNRA2014?ValidDate=20250609">2025</a></td>
+                                                        </tr>
+                                                </table>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <span class="input-group-text bg-white border-0" for="versionDatePicker">or find current version as at</span>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="input-group date datepicker-trigger">
+                                            <input type="text" class="form-control" id="versionDatePicker" style="width: 120px;">
+                                            <span class="input-group-text input-group-addon"><i class="fa fa-th"></i></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 ps-1">
+                                        <button type="submit" class="btn btn-default">Go</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                        <div class="timeline" id="provTimeline" style="display: none" data-bind="visible: Show.DesktopProvTimeline">
+                        </div>
+                    </div>
+
+                <div class="search-within search-within-desktop" data-bind="visible: Show.SearchWithin" style="display: none">
+                    <div class="row visible-xs">
+                        <div class="col-12 text-end">
+                            <button type="button" class="btn btn-default exit-search" data-bind="click: HideSearchWithin"><i class="fa fa-close"></i></button>
+                        </div>
+                    </div>
+                    <div class="row page-title">
+                        <div class="col-lg-8">
+                            <h1>Search within Legislation</h1>
+                        </div>
+                        <div class="col-lg-4 text-end hidden-xs">
+                            <button type="button" class="btn btn-default exit-search" data-bind="click: HideSearchWithin">Exit Search</button>
+                        </div>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-lg-8">
+                            <form method="get" action="/Act/BNRA2014?ViewType=Within" data-bind="submit: SubmitSearchWithin">
+                                <div class="input-group has-clear-button">
+                                    <input type="text" class="form-control" name="Phrase" id="searchPhrase" data-bind="value: SearchWithinPhrase" />
+                                    <button type="button" class="btn btn-default clear-button"><i class="fa fa-close"></i></button>
+                                    <button type="submit" class="btn btn-search" aria-label="Search" title="Search"><span class="fa fa-search"></span></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="fragview" id="fragview">
+                <a name="top"></a>
+                <div class="search-within">
+                    <ul class="nav nav-tabs" id="searchWithinTabs" style="display: none">
+                        <li role="presentation" id="searchWithinListTab" style="display: none"><a class="nav-link active" href="#">Search Results</a></li>
+                        <li role="presentation" id="searchWithinProvTab" style="display: none"><a class="nav-link " href="#"></a></li>
+                    </ul>
+
+                    <div id="searchWithinList" style="" class="search-list">
+                        
+
+
+                    </div>
+                </div>
+
+                    <div id="legisContent">
+                        <div class="legis"  id="legis"><div class="front"><table width="100%"><tr><td class="actHd"  id="aT-">Business Names Registration<br/>Act 2014</td></tr></table><table width="100%"><tr><td class="revdHdr">2020 REVISED EDITION</td></tr></table><table width="100%"><tr><td class="revdTxt">This revised edition incorporates all amendments up to and including 1 December 2021 and comes into operation on 31 December 2021</td></tr></table><table width="100%"><tr><td class="longTitle"  id="al-">An Act to provide for the registration of persons carrying on business in Singapore and their business names.</td></tr></table><table width="100%"><tr><td class="cDate">[3 January 2016]</td></tr></table></div><div class="body"><table width="100%"><tr><td class="part"  id="P11-"><div class="partNo">PART 1</div><table width="100%"><tr><td class="partHdr" id="P11-he-">PRELIMINARY</td></tr></table><div class="prov1"><table width="100%"><tr><td class="prov1Hdr" id="pr1-"><span class="noBold"></span><span class="">Short title</span></td></tr></table><table width="100%"><tr><td class="prov1Txt"><strong>1.</strong>&#xA0;&#xA0;This Act is the Business Names Registration Act 2014.</td></tr></table></div><div class="prov1"><table width="100%"><tr><td class="prov1Hdr" id="pr2-"><span class="noBold"></span><span class="">Interpretation</span></td></tr></table><table width="100%"><tr><td class="prov1Txt"><strong>2.</strong><a name="pr2-ps1-"></a><span class="prov2TxtIL">&#8212;(1)&#xA0;&#xA0;In this Act, unless the context otherwise requires&#160;&#8212;<span id="pr2-ps1-pd-"/><table width="100%"><tr><td class="definitionRepealed">[<i>Deleted by Act 21 of 2024 wef 09/12/2024</i>]</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“ACRA administered Act” means the Accounting and Corporate Regulatory Authority Act 2004 or any of the written laws specified in the Second Schedule to that Act;<div class="amendNote">[Act 21 of 2024 wef 09/12/2024]</div></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“authorised representative” means an authorised representative appointed under section&#160;11(1);</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act&#160;2004;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“business” includes every form of trade, commerce and profession, and any other activity, that is carried on for the purposes of gain, but does not include any office, employment or occupation;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“business name” means the name under which a person carries on business;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“certificate of confirmation of registration” means a certificate issued under section&#160;8(2);</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“company” has the meaning given by section&#160;4(1) of the Companies Act&#160;1967;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“contact address”, in relation to an individual, means an address that meets all of the following conditions:<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">it is a physical address at which the individual can be physically found or contacted by post;</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">it is not a post office box number;</td></tr><tr><td class="p1DefNo">(<em>c</em>)</td><td class="pDefTxt">it is located in the same jurisdiction as the individual’s residential address;<div class="amendNote">[Act 21 of 2024 wef 09/12/2024]</div></td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“corporation” means any body corporate formed, incorporated or existing in Singapore or outside Singapore and includes&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">any company;</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">any limited liability partnership registered under the Limited Liability Partnerships Act&#160;2005; and</td></tr><tr><td class="p1DefNo">(<em>c</em>)</td><td class="pDefTxt">any foreign company;</td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“document” means&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">any application, form, report, certification, notice, confirmation, declaration or other document to be filed or lodged with or submitted to the Registrar; or</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">any certificate, notice or other document to be issued by the Registrar;</td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“electronic transaction system” means the electronic transaction system mentioned in section 29(1);<div class="amendNote">[Act 21 of 2024 wef 09/12/2024]</div></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“firm” means an unincorporated body of&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">2 or more individuals;</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">one or more individuals and one or more corporations; or</td></tr><tr><td class="p1DefNo">(<em>c</em>)</td><td class="pDefTxt">2 or more corporations,</td></tr></table><table width="100%"><tr><td class="defSO"  style="font-size:13pt">who have entered into partnership with one another with a view to carrying on business for profit;</td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“foreign company” has the meaning given by section&#160;4(1) of the Companies Act&#160;1967;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“full name” or “name” means —<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">in the case of an individual registered under the National Registration Act&#160;1965&#160;&#8212; the name as it appears in the latest identity card issued to that individual under section&#160;9 of that Act; or</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">in the case of an individual not registered under the National Registration Act&#160;1965&#160;&#8212; the name as it appears in the latest passport issued to that individual or such other similar evidence of identification as is available;<div class="amendNote">[Act 21 of 2024 wef 09/12/2024]</div></td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“individual” means a natural person and, where appropriate, includes&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1DefNo">(<em>a</em>)</td><td class="pDefTxt">an administrator, an executor, a liquidator, a trustee, a nominee, or a guardian of the individual; or</td></tr><tr><td class="p1DefNo">(<em>b</em>)</td><td class="pDefTxt">a donee or deputy appointed under the Mental Capacity Act&#160;2008 in respect of the individual,</td></tr></table><table width="100%"><tr><td class="defSO"  style="font-size:13pt">having direct control or management of the business carried on by the individual;</td></tr></table></td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“individual proprietor” means an individual carrying on business as a sole proprietor;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“inspector” means a person authorised in writing by the Registrar under section&#160;32(1) to be an inspector for the purposes of this Act;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“notice of registration” means a notice issued under section&#160;8(1)(<em>b</em>);</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“register” means the register kept under this Act;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“registered” means registered under this Act;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“registered business name” means the business name in respect of which a person is registered under section&#160;8;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“Registrar” means the Registrar of Business Names appointed under section&#160;3(2) and includes any Deputy Registrar or Assistant Registrar of Business Names appointed under that section;</td></tr></table><table width="100%"><tr><td class="def"  style="font-size:13pt">“residential address”, in relation to an individual, means the individual’s usual place of residence.</td></tr></table></span><a name="pr2-ps2-"></a><table width="100%"><tr><td class="prov2Txt">(2)&#xA0;&#xA0;A person who has a place of business in Singapore is to be treated as carrying on business in Singapore for the purposes of this Act.</td></tr></table><a name="pr2-ps3-"></a><table width="100%"><tr><td class="prov2Txt">(3)&#xA0;&#xA0;Despite subsection&#160;(2), a foreign company is not to be treated as carrying on business in Singapore for the reason only that in Singapore it&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1No">(<em>a</em>)</td><td class="pTxt">is or becomes a party to any action or suit or any administrative or arbitration proceeding, or effects settlement of an action, a suit or a proceeding or of any claim or dispute;</td></tr><tr><td class="p1No">(<em>b</em>)</td><td class="pTxt">holds meetings of its directors or shareholders or carries on other activities concerning its internal affairs;</td></tr><tr><td class="p1No">(<em>c</em>)</td><td class="pTxt">maintains any bank account;</td></tr><tr><td class="p1No">(<em>d</em>)</td><td class="pTxt">effects any sale through an independent contractor;</td></tr><tr><td class="p1No">(<em>e</em>)</td><td class="pTxt">solicits or procures any order that becomes a binding contract only if the order is accepted outside Singapore;</td></tr><tr><td class="p1No">(<em>f</em>)</td><td class="pTxt">creates evidence of any debt or creates a charge on movable or immovable property;</td></tr><tr><td class="p1No">(<em>g</em>)</td><td class="pTxt">secures or collects any of its debts or enforces its rights in regard to any securities relating to such debts;</td></tr><tr><td class="p1No">(<em>h</em>)</td><td class="pTxt">conducts an isolated transaction that is completed within a period of 31&#160;days, but not being one of a number of similar transactions repeated from time to time;</td></tr><tr><td class="p1No">(<em>i</em>)</td><td class="pTxt">invests any of its funds or holds any property;</td></tr><tr><td class="p1No">(<em>j</em>)</td><td class="pTxt">establishes a share transfer or share registration office in Singapore;</td></tr><tr><td class="p1No">(<em>k</em>)</td><td class="pTxt">effects any transaction through its related corporation licensed or approved under any written law by the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act&#160;1970, and under an arrangement approved by that Authority; or</td></tr><tr><td class="p1No">(<em>l</em>)</td><td class="pTxt">carries on any other activity that may be prescribed.</td></tr></table></td></tr></table><a name="pr2-ps4-"></a><table width="100%"><tr><td class="prov2Txt">(4)&#xA0;&#xA0;In subsection&#160;(3), “related corporation” has the meaning given by section&#160;4(1) of the Companies Act&#160;1967.</td></tr></table><a name="pr2-ps5-"></a><table width="100%"><tr><td class="prov2Txt">(5)&#xA0;&#xA0;A reference to a document being filed or lodged with the Registrar is a reference to the document being filed or lodged with the Registrar in such manner and form as the Registrar may determine.</td></tr></table><a name="pr2-ps6-"></a><table width="100%"><tr><td class="prov2Txt">(6)&#xA0;&#xA0;For the purposes of sections&#160;8(7), 12(4), 16(5) and 17(9) and (10), any reference to the Minister includes a reference to such Minister of State for his or her Ministry who is authorised by the Minister for the purposes of hearing an appeal under that provision.</td></tr></table></td></tr></table></div><div class="prov1"><table width="100%"><tr><td class="prov1Hdr" id="pr3-"><span class="noBold"></span><span class="">Administration of Act and appointment of Registrar of Business Names, etc.</span></td></tr></table><table width="100%"><tr><td class="prov1Txt"><strong>3.</strong><a name="pr3-ps1-"></a><span class="prov2TxtIL">&#8212;(1)&#xA0;&#xA0;The Authority is responsible for the administration of this Act, subject to the general or special directions of the Minister.</span><a name="pr3-ps2-"></a><table width="100%"><tr><td class="prov2Txt">(2)&#xA0;&#xA0;The Minister may, after consulting the Authority, appoint&#160;&#8212;<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1No">(<em>a</em>)</td><td class="pTxt">an officer of the Authority to be the Registrar of Business Names; and</td></tr><tr><td class="p1No">(<em>b</em>)</td><td class="pTxt">such numbers of Deputy Registrars and Assistant Registrars of Business Names from among the officers of the Authority, public officers and the officers of any other statutory body,</td></tr></table><table width="100%"><tr><td class="prov1N2SO"  style="font-size:13pt">for the proper administration of this Act.</td></tr></table></td></tr></table><a name="pr3-ps3-"></a><table width="100%"><tr><td class="prov2Txt">(3)&#xA0;&#xA0;The Registrar is responsible for keeping a register of registered persons and their registered business names, generally for the carrying out of the provisions of this Act, and for the collection of the fees payable under this Act and payment of all amounts so collected into the funds of the Authority.</td></tr></table><a name="pr3-ps4-"></a><table width="100%"><tr><td class="prov2Txt">(4)&#xA0;&#xA0;The Authority may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of the Registrar’s powers, functions or duties under this Act, and the Registrar is to give effect to such directions.</td></tr></table><a name="pr3-ps5-"></a><table width="100%"><tr><td class="prov2Txt">(5)&#xA0;&#xA0;The Registrar may, subject to such conditions or restrictions as the Registrar thinks fit, for the purposes of the administration of this Act, delegate to any Deputy Registrar or Assistant Registrar of Business Names all or any of the powers, functions and duties vested in the Registrar by this Act except the power of delegation conferred by this section.</td></tr></table></td></tr></table></div><div class="prov1"><table width="100%"><tr><td class="prov1Hdr" id="pr4-"><span class="noBold"></span><span class="">Persons not required to be registered under Act</span></td></tr></table><table width="100%"><tr><td class="prov1Txt"><strong>4.</strong><a name="pr4-ps1-"></a><span class="prov2TxtIL">&#8212;(1)&#xA0;&#xA0;The following persons are not required to be registered when carrying on business in Singapore:<table class="p1_1"  style="font-size:13pt" width="100%"><tr><td class="p1No">(<em>a</em>)</td><td class="pTxt">any individual proprietor carrying on business under only the individual proprietor’s full name;</td></tr><tr><td class="p1No">(<em>b</em>)</td><td class="pTxt">any firm of 2&#160;or more individuals carrying on business under only the full names of all the individuals;</td></tr><tr><td class="p1No">(<em>c</em>)</td><td class="pTxt">subject to subsection&#160;(2), any individual or firm of 2&#160;or more individuals carrying on any business consisting solely of the exercise of any profession that, under the provisions of any written law, can be exercised only by those who possess certain qualifications prescribed by the written law and whose names are registered or otherwise recorded in the manner prescribed by any written law;</td></tr><tr><td class="p1No">(<em>d</em>)</td><td class="pTxt">a person (<em>A</em>) in respect of or for whom another person&#160;(<em>B</em>) carries on business wholly or mainly as nominee or trustee if <i>B</i> has provided the particulars required under section&#160;7(1);</td></tr><tr><td class="p1No">(<em>e</em>)</td><td class="pTxt">any statutory authority or other body established by or under any public Act for a public purpose;</td></tr><tr><td class="p1No">(<em>f</em>)</td><td class="pTxt">any institution, authority, person or fund specified in the First Schedule to the Income Tax Act&#160;1947;</td></tr><tr><td class="p1No">(<em>g</em>)</td><td class="pTxt">any society registered under the Societies Act&#160;1966;</td></tr><tr><td class="p1No">(<em>h</em>)</td><td class="pTxt">any society registered under the Co‑operative Societies Act&#160;1979;</td></tr><tr><td class="p1No">(<em>i</em>)</td><td class="pTxt">any mutual benefit organisation registered under the Mutual Benefit Organisations Act&#160;1960;</td></tr><tr><td class="p1No">(<em>j</em>)</td><td class="pTxt">any trade union registered under the Trade Unions Act&#160;1940;</td></tr><tr><td class="p1No">(<em>ja</em>)</td><td class="pTxt">any platform work association registered under the Platform Workers Act&#160;2024;<div class="amendNote">[Act 30 of 2024 wef 01/11/2024]</div></td></tr><tr><td class="p1No">(<em>k</em>)</td><td class="pTxt">the Public Trustee or the Official Assignee of the property of a bankrupt;</td></tr><tr><td class="p1No">(<em>l</em>)</td><td class="pTxt">any foreign company carrying on business in Singapore that is registered under the Companies Act&#160;1967 and carries on the business under its registered name;</td></tr><tr><td class="p1No">(<em>m</em>)</td><td class="pTxt">any company carrying on business under its corporate name;</td></tr><tr><td class="p1No">(<em>n</em>)</td><td class="pTxt">any limited liability partnership registered under the Limited Liability Partnerships Act&#160;2005 carrying on business under its registered name;</td></tr><tr><td class="p1No">(<em>o</em>)</td><td class="pTxt">subject to section&#160;42(3) of the Limited Partnerships Act&#160;2008, any limited partnership registered under that Act;</td></tr><tr><td class="p1No">(<em>p</em>)</td><td class="pTxt">any other person or class of persons for the time being exempted by the Minister under regulations made under section&#160;43; and</td></tr><tr><td class="p1No">(<em>q</em>)</td><td class="pTxt">any individual proprietor who carried on any business specified in the First Schedule to the Business Registration Act (Cap.&#160;32, 2004&#160;Revised Edition) immediately before 3 January 2016 and who is alive and continues to carry on the same business on and after that date.</td></tr></table></span><a name="pr4-ps2-"></a><table width="100%"><tr><td class="prov2Txt">(2)&#xA0;&#xA0;An individual or a firm of 2 or more individuals referred to in subsection&#160;(1)(<em>c</em>), is required to be registered when carrying on business in Singapore if regulations made under section&#160;43 prescribe that the exemption under subsection&#160;(1)(<em>c</em>) does not apply to such individual or firm.</td></tr></table><a name="pr4-ps3-"></a><table width="100%"><tr><td class="prov2Txt">(3)&#xA0;&#xA0;A person carrying on business in Singapore who is not required to be registered under subsection&#160;(1), other than a person who is specified in any of the provisions of subsection&#160;(1)(<em>e</em>) to (<em>o</em>), may choose to be registered.</td></tr></table><a name="pr4-ps4-"></a><table width="100%"><tr><td class="prov2Txt">(4)&#xA0;&#xA0;A person who is not required to be registered but chooses to be registered is subject to and must comply with the provisions of this Act for the period of time that the person is so registered.</td></tr></table><a name="pr4-ps5-"></a><table width="100%"><tr><td class="prov2Txt">(5)&#xA0;&#xA0;In this section, a reference to an individual or a person includes a class of individuals or a class of persons, respectively.<div class="amendNote">[Act 21 of 2024 wef 09/12/2024]</div></td></tr></table></td></tr></table></div></td></tr></table><div class="dms" data-field="seriesId" data-term="e9c05258-3a0e-497f-932f-2a4c6e31f3de"></div><div class="dms" data-field="seriesId" data-term="58435580-19af-44f1-af70-68fac3faf310"></div></div><div class="tail"><div class="dms" data-field="seriesId" data-term="29f49462-62aa-451c-9f80-8b9fc1bc4756"></div><div class="dms" data-field="seriesId" data-term="LEGISLATION_ABBREVIATIONS"></div><div class="dms" data-field="seriesId" data-term="2e3350cf-8fed-4c61-ba0e-c4335a848776"></div></div></div>
+                    </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+                </div>
+            </div>
+        </div>
+        <div class="footer">
+            <div class="footer-container">
+                <div class="container">
+                    <div class="row footer-title">
+                        Singapore Statutes Online
+                    </div>
+                    <div class="footer-link-row footer-link-1">
+                        <ul>
+                            <li><a href="https://sso.agc.gov.sg/Help/FAQ" title="FAQ">FAQs</a></li>
+                            <li><a href="https://sso.agc.gov.sg/Feedback" title="Feedback">Feedback</a></li>
+                            <li><a href="https://sso.agc.gov.sg/Sitemap" title="How this site is arranged">Sitemap</a></li>
+                        </ul>
+                    </div>
+                    <div class="row">
+                        <div class="col ps-0 pe-0">
+                            <hr />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-5 footer-col">
+                            <div class="footer-link-row footer-link-2">
+                                
+
+<!--
+
+-->
+<ul>
+	<li>
+		<a href="https://tech.gov.sg/report_vulnerability" target="_blank" rel="noopener">
+			Report Vulnerability
+			<span class="ui-icon ui-icon-extlink">
+			</span>
+		</a>
+	</li>
+	<li>
+		<a href="https://sso.agc.gov.sg/Privacy-Statement">
+			Privacy Statement
+		</a>
+	</li>
+	<li>
+		<a href="https://sso.agc.gov.sg/Terms-of-Use">
+			Terms of Use
+		</a>
+	</li>
+</ul>
+                            </div>
+                        </div>
+                        <div class="col-md-7 footer-col right-col">
+                            &copy; 2026 Attorney-General's Chambers of Singapore,
+                            <br />
+                          	Last updated 31 May 2026
+                          	<br />
+                            
+
+Singapore Statutes Online is provided by the Legislation Division of the Attorney-General's Chambers of Singapore.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="deviceXs" class="device-xs visible-xs">
+    </div>
+    <div id="deviceSm" class="device-sm visible-sm">
+    </div>
+    <div id="deviceMd" class="device-md visible-md">
+    </div>
+    <div id="deviceLg" class="device-lg visible-lg">
+    </div>
+    <div id="back-top" style="display: none;">
+        <a href="#top" class="btn btn-default" aria-label="Back to Top">
+            <span class="fa fa-3x fa-angle-up">
+            </span>
+        </a>
+    </div>
+    <div class="global-vars" data-json='{"host":"sso.agc.gov.sg","rootPath":"https://sso.agc.gov.sg/","appPath":"/","isFullScreenLayout":"","facebookApiClientId":"1574982902595057","gapiClientId":"411798117816-38evsfla7dnhkmboqc0bj723kogo2d2o","linkedInClientId":"81cjellkmvowq4","getProfileCollectionUrl":"/Profile/GetProfileCollectionList","inForceLabel":"Current","repealedLabel":"Repealed/Spent","revokedLabel":"Revoked/Spent","uncommencedLabel":"Uncommenced","actsLabel":"Acts","slLabel":"Subsidiary Legislation","actsSuppLabel":"Acts Supplement","billsSuppLabel":"Bills Supplement","slSuppLabel":"Subsidiary Legislation Supplement","actsRevLabel":"Revised Editions of Acts","slRevLabel":"Revised Editions of Subsidiary Legislation","isPreviewSite":false,"viewDate":"\/Date(1780207788992)\/","customCategoryMenuList":null,"ajaxToken":"X5Xd1bJldVd2MTkhG9qsLmhl1qNsJNa2ibcQRXhFmnDLkXlR2AtxTATN3SWGcmzO6rlW2tGqtka9uwqXIWT3HJy8RP/RuSZcgSlIebgifmWNSdGJAFtTVcPpmMWC4h/VIPm9mhCB4vnkO0FaPuF/pfeEShe8pph22Vs0pVj61mOvoqYwpkct7qEXS2Q3jaA7jN1rxGZiki07Hg1UdBjoyA=="}'>
+    </div>
+<script src="/bundles/jquery2?v=S3JRJgIZvssak0y3udZHTkXFZdvN8JWWArxyv6igbf41" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+    <script src="/bundles/bootstrap?v=WoYnXGn1q_M0uDmCQYV_anBBkLBUdNW3MkvR-bEVI8I1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <script src="/bundles/knockout?v=eIktEL2ZR37xjcUDMiaqDBkzG4YQpYzAyW_RTc6qrOo1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <script src="/bundles/historyjs?v=ptds6DTEVEI_wSKel6k-Czm4_cnY1C2KodPSMqGWT6Y1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <script src="/bundles/utility?v=LtlQjEWbERWv-7_QvAXHhqNH1FbLXdq0fjZa3yq7aAA1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <script src="/CMS/js/SiteCMS.js?170058" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    
+    <script src="/bundles/bootstrap-datepicker?v=vCCaPSh4ugwpyNkCJOiUeX0BorShO-344aPyai1dtQQ1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+    <div class="global-vars" data-json='{"tocSysId":"b6b3c7ed-7cf9-486a-ba49-30c1fdb090c6","rootFragSysId":"b77afca4-5f7e-4a3f-9cd1-eb5747ed706a","fragSysId":"","legisTitle":"Business Names Registration Act 2014","provTitle":"","citation":"","isProvisionView":0,"fragmentPath":"","docTimelineIdx":9,"provTimelineIdx":-1,"provTimelineLen":0,"timelineItems":[{"Item1":"\/Date(1451750400000)\/","Item2":"/Act/BNRA2014/Historical/20160103?DocDate=20170330\u0026ValidDate=20160103","Item3":"835dfa59-401b-4c44-bd27-96d5c10b5f25"},{"Item1":"\/Date(1507651200000)\/","Item2":"/Act/BNRA2014/Historical/20171011?DocDate=20181107\u0026ValidDate=20171011","Item3":"b7478f17-6113-4a33-8744-304916673a06"},{"Item1":"\/Date(1596038400000)\/","Item2":"/Act/BNRA2014/Historical/20200730?DocDate=20191212\u0026ValidDate=20200730","Item3":"9136f350-2fb6-440d-922b-4bb6fb56a234"},{"Item1":"\/Date(1609516800000)\/","Item2":"/Act/BNRA2014/Historical/20210102?DocDate=20211231\u0026ValidDate=20210102","Item3":"53e5743e-0a53-49bc-a857-8899e20293db"},{"Item1":"\/Date(1640880000000)\/","Item2":"/Act/BNRA2014/Historical/20211231?DocDate=20211011\u0026ValidDate=20211231","Item3":"e48bbe4e-3b88-4362-8a56-afebce9e7b1d"},{"Item1":"\/Date(1648742400000)\/","Item2":"/Act/BNRA2014/Historical/20220401?DocDate=20240221\u0026ValidDate=20220401","Item3":"83858c56-e6e8-4b8d-9f92-d71e43ca708b"},{"Item1":"\/Date(1708876800000)\/","Item2":"/Act/BNRA2014/Historical/20240226?DocDate=20241011\u0026ValidDate=20240226","Item3":"b7ecf964-9983-41f9-919e-088bf27c50ce"},{"Item1":"\/Date(1730390400000)\/","Item2":"/Act/BNRA2014/Historical/20241101?DocDate=20240807\u0026ValidDate=20241101","Item3":"3bb70bcb-df38-4fee-b51e-00d9e5024269"},{"Item1":"\/Date(1733673600000)\/","Item2":"/Act/BNRA2014/Historical/20241209?DocDate=20240807\u0026ValidDate=20241209","Item3":"7ff84fbb-8fe4-4c0c-a459-8e77c983eb94"},{"Item1":"\/Date(1749398400000)\/","Item2":"/Act/BNRA2014?ValidDate=20250609","Item3":"b6b3c7ed-7cf9-486a-ba49-30c1fdb090c6"}],"validStartDate":"\/Date(1749398400000)\/","disableScrollTracking":"0","lazyLoadFilter":{"TocSysId":"b6b3c7ed-7cf9-486a-ba49-30c1fdb090c6","SeriesId":null,"ValidTime":null,"TransactionTime":null,"ViewType":"","V":"41","Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"lazyLoadContentUrl":"/Details/GetLazyLoadContent","currViewUrl":"/Act/BNRA2014","currViewFilter":{"DocType":"Act","DocNo":"BNRA2014","QueryDate1":null,"DocStatus":"Current","ValidDate":null,"ValidDt":null,"TransactionDate":null,"DocDate":null,"ViewType":"","CompareDate":null,"ShowDiff":"","PrintType":"","ProvIds":"","PageIndex":0,"PageSize":0,"SortBy":"","SortOrder":"","Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"WholeDoc":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":null,"RefineWithin":null,"CustomSearchId":null},"showSideBar":true,"getAddToCollectionPanelUrl":"/Profile/GetAddToCollectionPanel","viewMode":1,"fragments":{"58ab8295-57df-42f5-9bdf-774553f0d9bd":{"Item1":"b77afca4-5f7e-4a3f-9cd1-eb5747ed706a","Item2":"20250508164900"},"8967ddd9-aab0-48f5-ad93-4eb681e7e249":{"Item1":"2a720b23-f7e4-4a47-829c-db88023adeef","Item2":"20250508164407"},"593343f3-b27b-41ca-a088-8211cdeb68a4":{"Item1":"c59ad2b7-de09-4d2c-b4da-944af042d44e","Item2":"20250508162142"},"0a1ba6c2-1903-43fe-8d28-4e40e9520c06":{"Item1":"72214caf-3a14-47cf-9730-5dcfd943c3a1","Item2":"20250508162142"},"e7dd5a20-6660-4166-b19d-9fee3e1f86aa":{"Item1":"412d982a-96b4-4fd5-a849-2a816af4e7dd","Item2":"20250508184042"},"b8442c89-78f9-4eee-b3e3-8ee3dafeece1":{"Item1":"3766c404-0463-4064-b02a-3ea5edf48edc","Item2":"20250508162142"},"15a7ff5d-cbd7-4f51-9b6d-a871d4c0a6fb":{"Item1":"b8218b40-c217-42ee-9e85-31257897ee64","Item2":"20251219111503"},"7a10acd3-47f3-49cb-9ee1-5b3727ebf0fc":{"Item1":"8bf3db22-f0ca-4ac0-ad48-636eed5123fb","Item2":"20250508164910"},"c3800ac6-a985-4384-ac4e-9ea6bee3713c":{"Item1":"0e25c546-0105-4e9d-ab8f-fed16cb83606","Item2":"20250508164910"},"e9c05258-3a0e-497f-932f-2a4c6e31f3de":{"Item1":"fbcb8e21-a955-43dd-8f3a-7a78be419959","Item2":"20250508164910"},"4a86a763-745e-4b8e-b73a-ecc181f03b98":{"Item1":"e6ea79f1-0577-4415-95a2-09242d0618b2","Item2":"20250508164910"},"1d87af28-d06f-4ba5-b9c6-35c9ef19cd65":{"Item1":"7fd4b99f-748a-4147-a177-7ff343bc86f4","Item2":"20250508164900"},"789bc285-7918-47d4-9d8d-920cc69f2607":{"Item1":"1ca6ebdf-acca-4482-9dc2-3861e912d9b6","Item2":"20250508164907"},"40378b4b-a143-4e83-b6e1-c2261aa07830":{"Item1":"62e95557-a8a0-421d-8f85-2957f596c7bc","Item2":"20250508164907"},"271527de-3132-4a64-88c7-fa9ff7073040":{"Item1":"1a590b99-1220-47d5-8869-27c39f9e3af5","Item2":"20250508164907"},"4de6da51-fe6c-4d12-a83b-178befac317f":{"Item1":"6dedd748-06fd-470f-a8bf-6a347967034a","Item2":"20250508164907"},"da409664-db66-4b19-b5e7-355eba2f9457":{"Item1":"1878bfeb-eee9-468e-88e3-26a11acebcbb","Item2":"20250508164907"},"2dffeae7-4945-42e1-9ec4-c65d44291afa":{"Item1":"7b4f1540-a87f-4f67-ada4-eae05a318bb5","Item2":"20250508164907"},"50c03a55-d777-44a6-9cc8-1ee1a443ba93":{"Item1":"d04204b4-54ac-4b7f-a9ea-bd2fdffd2df4","Item2":"20250508164907"},"5ccebcb3-150b-4ddf-bfc6-287901cb66df":{"Item1":"0ac4940c-d32b-4a6d-8338-2ef23bd2e221","Item2":"20250508164907"},"b741eab2-d690-4cf6-a39b-22fc5eb29715":{"Item1":"d3f3b2bc-a4fc-4499-a241-b716a297eb64","Item2":"20250508164907"},"40673546-cc37-414c-af39-4a2e178520fb":{"Item1":"2d5699e9-4865-473c-bb1e-dafb2f642526","Item2":"20250508164907"},"c1875c2c-8ad9-404c-8491-47d0266785e5":{"Item1":"c213e0cc-5e2f-4947-9f37-1e4c5976d4d3","Item2":"20250508164907"},"514ce876-6d70-4e19-bc22-5b589f936f31":{"Item1":"809e3540-a296-474b-a5d4-8df5165fa2d1","Item2":"20250508164907"},"c579f21c-018e-43e2-927a-aeea522cacf4":{"Item1":"74781986-8295-43c9-a9f0-66fb5a0beac3","Item2":"20250508164907"},"a8b85eda-1c8f-4f0e-9872-03d17c1688a7":{"Item1":"07696ec2-7249-40d7-b413-1c5869faa0b4","Item2":"20250508164907"},"4d06c221-f54a-4346-a43e-218a89fe4b8f":{"Item1":"8cb489fb-8f35-4e67-8b3c-3dfc67df288d","Item2":"20250508164907"},"95910b9b-34e3-41f5-b222-f35c32850312":{"Item1":"97a0b4e1-7cec-4f65-a61d-f70159792872","Item2":"20250508164907"},"2eb97632-42af-45ff-b980-37f21466223e":{"Item1":"b65b2874-2e5c-42df-bb70-398598da7819","Item2":"20250508164907"},"1c9cf12a-e531-41ee-ac92-9226f96d007b":{"Item1":"3fcce8e7-3dff-407b-91ef-69111369a735","Item2":"20250508164907"},"a4884e66-2959-4dbf-84c2-ecff0a45cbff":{"Item1":"d46f335e-28c5-47c1-9989-aebabcd39ee7","Item2":"20250508164907"},"a6743151-66c9-4c57-aa90-19da2be9c250":{"Item1":"9840c3bc-b960-4774-8ecd-f27308872b79","Item2":"20250508164907"},"987ab40b-3ccb-4e0a-ba6f-865f1a5387cc":{"Item1":"d52d2b28-7406-44ca-81aa-370cd2ff229e","Item2":"20250508164907"},"11136e39-6131-44df-b900-9c7c4a6668dc":{"Item1":"3adfa6f3-47b7-422d-9850-da8e23a56461","Item2":"20250508164907"},"9a237931-417f-4ea8-976a-c76b4e2c9f6d":{"Item1":"2463729d-647f-4561-b774-aa6c3f797fed","Item2":"20250508164907"},"61c246ac-8731-44d8-a5b0-18e884dcc0a1":{"Item1":"02e57327-0f64-485f-bdee-473b5802e735","Item2":"20250508164907"},"19570e64-9b9b-447b-9955-d7bf006ecd2b":{"Item1":"937452c7-ae59-44be-a9b9-a481f41def59","Item2":"20250508164907"},"58435580-19af-44f1-af70-68fac3faf310":{"Item1":"fbed54a3-9da7-4a04-bce3-e30d3671d492","Item2":"20250508164907"},"97ae111c-5a88-4e33-80f0-5dd2c15c0044":{"Item1":"a03a8fbf-2aee-4a3e-9628-34f39b545694","Item2":"20250508164907"},"720e0511-d2d4-4f1d-8d52-d12f66c43280":{"Item1":"324aaf14-d709-447f-9e8d-8183c483b62c","Item2":"20250508164907"},"285df9da-5785-4584-ba8d-2895eb473cd5":{"Item1":"f94bc62c-52e7-45e8-93a0-466586adb4b7","Item2":"20250508164907"},"daed9f01-26c8-45f5-ac24-801bcb6410c5":{"Item1":"5d6a5fcf-7e63-4e21-99f1-d8435dd1fde4","Item2":"20250508164907"},"b6efca6d-4ec4-489b-aa60-aad709242960":{"Item1":"2bdf3a71-1144-4d8d-b896-54def1e22a24","Item2":"20250508164907"},"2bbe6009-3365-40c1-b09f-3120116fbb0d":{"Item1":"3e5102f3-874d-4e3d-9e3d-d007eee175b3","Item2":"20250508164907"},"3ac4dd64-6ff7-4fdc-8f6b-1419689b5fdd":{"Item1":"1f760302-35ad-4df7-a38d-7e3a38813ffc","Item2":"20250508164907"},"750bfa29-018f-4f36-9678-e74b60b6bcb7":{"Item1":"46fd0fef-c060-4ea9-8e9e-4eff524443f9","Item2":"20250508164900"},"b5105fb5-d697-4c78-ab14-7d4bddfadef9":{"Item1":"44069d71-c998-447d-8940-c1d7f6f578cb","Item2":"20250508164900"},"2336bfe8-ce74-4570-b6fa-4445581d0b6b":{"Item1":"cb0476e8-7d61-43bb-b707-5593069e6c95","Item2":"20250508164900"},"033f43d6-6873-4677-b87f-f9348b2e4da0":{"Item1":"430f56d5-7b2c-46a2-a473-0add4b4b3df5","Item2":"20250508164900"},"dd44b231-5244-420e-8cf2-0a14d736868d":{"Item1":"07074e1b-baf7-40a3-bdd2-d89561144e9a","Item2":"20250508164900"},"e0c43a09-de48-43b2-b0c1-6d3e2dfb33e9":{"Item1":"28a3af09-cf48-47c9-a5c5-22f3d56ce4d1","Item2":"20250508164900"},"bbd3a165-e60c-4f8e-bd7e-d2a765d8fdbd":{"Item1":"3ac6f5df-a9da-4034-a7b1-cfab31a3cf03","Item2":"20250508164900"},"fda820f7-32ed-4a36-bcde-5b9dfda13e86":{"Item1":"a381499a-0ee9-4944-a927-d08edb0c7bec","Item2":"20250508164900"},"29f49462-62aa-451c-9f80-8b9fc1bc4756":{"Item1":"4c6e6839-6920-48aa-bc89-cb2100b35c5b","Item2":"20250508164900"},"LEGISLATION_ABBREVIATIONS":{"Item1":"LEGISLATION_ABBREVIATIONS","Item2":"20200701000000"},"2e3350cf-8fed-4c61-ba0e-c4335a848776":{"Item1":"f3889870-104b-4647-9396-b22454d67e68","Item2":"20250508164900"}},"exitSearchUrl":"/Act/BNRA2014","searchWithinPhrase":"","currUrl":"https://sso.agc.gov.sg/Act/BNRA2014","getPrintQstUrl":"/Details/GetPrintQst","printViewUrl":"/Act/BNRA2014","printViewFilter":{},"currUrlPath":"/Act/BNRA2014","currQs":""}'></div>
+
+    <script src="/bundles/legis?v=6XVfKqjjPjenR5RA50vUspMwsKSo7bPyFVybzDZ43sI1" nonce="ZLVz4qsKbCaAjBe/IdPAI9x4wMXSSHc1rohHRfA4w84="></script>
+
+
+</body>
+</html>

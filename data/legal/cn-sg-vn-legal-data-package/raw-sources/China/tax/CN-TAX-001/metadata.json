@@ -1,0 +1,20 @@
+{
+  "id": "CN-TAX-001",
+  "country": "China",
+  "domain": "tax",
+  "law_title_local": "中华人民共和国企业所得税法",
+  "law_title_en": "Enterprise Income Tax Law of the People's Republic of China",
+  "citation": "latest amended text in policy library",
+  "issuing_body": "National People's Congress",
+  "effective_date": "2008-01-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "State Taxation Administration Policy and Regulation Library",
+  "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193018/content.html",
+  "agent_tags": [
+    "CIT",
+    "resident_enterprise",
+    "non_resident_tax"
+  ],
+  "retrieval_priority": "high"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-006",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "促进和规范数据跨境流动规定",
+  "law_title_en": "Provisions on Promoting and Regulating Cross-border Data Flows",
+  "citation": "2024",
+  "issuing_body": "Cyberspace Administration of China",
+  "effective_date": "2024-03-22",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "CAC official rules",
+  "official_url": "https://www.cac.gov.cn/2024-03/22/c_1712776611775634.htm",
+  "agent_tags": [
+    "transfer_exemptions",
+    "compliance_path",
+    "cross_border_data"
+  ],
+  "retrieval_priority": "high"
+}

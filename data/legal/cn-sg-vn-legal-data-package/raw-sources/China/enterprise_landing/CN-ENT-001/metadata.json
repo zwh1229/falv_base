@@ -1,0 +1,20 @@
+{
+  "id": "CN-ENT-001",
+  "country": "China",
+  "domain": "enterprise_landing",
+  "law_title_local": "中华人民共和国公司法",
+  "law_title_en": "Company Law of the People's Republic of China",
+  "citation": "2023 revision",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2024-07-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "State Administration for Market Regulation legal disclosure",
+  "official_url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_067c072db6ef4679a2e0180996be4cf8.html",
+  "agent_tags": [
+    "company_incorporation",
+    "governance",
+    "shareholder_rights"
+  ],
+  "retrieval_priority": "high"
+}

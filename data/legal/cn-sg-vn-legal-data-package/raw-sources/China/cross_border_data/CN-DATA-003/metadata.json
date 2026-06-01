@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-003",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "中华人民共和国网络安全法",
+  "law_title_en": "Cybersecurity Law of the People's Republic of China",
+  "citation": "2016",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2017-06-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "National People's Congress legal publication",
+  "official_url": "http://www.npc.gov.cn/zgrdw/npc/zfjc/zfjcelys/2016-11/07/content_2034939.htm",
+  "agent_tags": [
+    "CII",
+    "network_operator",
+    "data_localization"
+  ],
+  "retrieval_priority": "high"
+}

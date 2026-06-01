@@ -1,0 +1,20 @@
+{
+  "id": "VN-TAX-001",
+  "country": "Vietnam",
+  "domain": "tax",
+  "law_title_local": "Luật số 38/2019/QH14 luật Quản lý thuế",
+  "law_title_en": "Law on Tax Administration No. 38/2019/QH14",
+  "citation": "38/2019/QH14",
+  "issuing_body": "National Assembly of Vietnam",
+  "effective_date": "2020-07-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/luat-so-38-2019-qh14-29256.htm",
+  "agent_tags": [
+    "tax_administration",
+    "declaration",
+    "taxpayer_obligations"
+  ],
+  "retrieval_priority": "high"
+}

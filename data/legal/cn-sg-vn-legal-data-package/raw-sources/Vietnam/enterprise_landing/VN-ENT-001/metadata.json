@@ -1,0 +1,20 @@
+{
+  "id": "VN-ENT-001",
+  "country": "Vietnam",
+  "domain": "enterprise_landing",
+  "law_title_local": "Văn bản hợp nhất số 67/VBHN-VPQH hợp nhất Luật Doanh nghiệp",
+  "law_title_en": "Consolidated Law on Enterprises (VBHN 67)",
+  "citation": "67/VBHN-VPQH",
+  "issuing_body": "Office of the National Assembly",
+  "effective_date": "2025-08-15",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865/58269.htm",
+  "agent_tags": [
+    "company_formation",
+    "governance",
+    "enterprise_registration"
+  ],
+  "retrieval_priority": "high"
+}

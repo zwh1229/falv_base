@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-002",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "中华人民共和国数据安全法",
+  "law_title_en": "Data Security Law of the People's Republic of China",
+  "citation": "2021",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2021-09-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "National People's Congress legal publication",
+  "official_url": "http://www.npc.gov.cn/npc/c2/c30834/202106/t20210610_311888.html",
+  "agent_tags": [
+    "important_data",
+    "data_governance",
+    "export_control"
+  ],
+  "retrieval_priority": "high"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-005",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "个人信息出境标准合同办法",
+  "law_title_en": "Measures on Standard Contract for Cross-border Transfer of Personal Information",
+  "citation": "CAC Order No. 13",
+  "issuing_body": "Cyberspace Administration of China",
+  "effective_date": "2023-06-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "CAC official rules",
+  "official_url": "https://www.cac.gov.cn/2023-02/24/c_1678884830036813.htm",
+  "agent_tags": [
+    "standard_contract",
+    "filing",
+    "PIIA"
+  ],
+  "retrieval_priority": "high"
+}

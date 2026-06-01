@@ -1,0 +1,23 @@
+{
+  "id": "CN-DATA-007",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "国务院关于对外投资的规定",
+  "law_title_en": "Regulations of the State Council on Outbound Investment",
+  "citation": "State Council Order No. 837",
+  "issuing_body": "State Council",
+  "effective_date": "2026-07-01",
+  "is_currently_effective": false,
+  "valid_until": null,
+  "official_database": "China Government Website",
+  "official_url": "https://www.gov.cn/zhengce/content/202606/content_7070755.htm",
+  "agent_tags": [
+    "outbound_investment",
+    "cross_border_data",
+    "data_security",
+    "personal_information",
+    "export_control",
+    "overseas_compliance"
+  ],
+  "retrieval_priority": "medium"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "SG-ENT-002",
+  "country": "Singapore",
+  "domain": "enterprise_landing",
+  "law_title_local": "Business Names Registration Act 2014",
+  "law_title_en": "Business Names Registration Act 2014",
+  "citation": "Act 29 of 2014",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "2016-01-03",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/BNRA2014",
+  "agent_tags": [
+    "business_name",
+    "registration",
+    "local_business_operations"
+  ],
+  "retrieval_priority": "medium"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-TAX-002",
+  "country": "China",
+  "domain": "tax",
+  "law_title_local": "中华人民共和国税收征收管理法",
+  "law_title_en": "Law on the Administration of Tax Collection",
+  "citation": "latest amended text in policy library",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2001-05-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "State Taxation Administration Policy and Regulation Library",
+  "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html",
+  "agent_tags": [
+    "tax_procedure",
+    "filing",
+    "enforcement"
+  ],
+  "retrieval_priority": "high"
+}

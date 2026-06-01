@@ -1,0 +1,20 @@
+{
+  "id": "VN-TAX-003",
+  "country": "Vietnam",
+  "domain": "tax",
+  "law_title_local": "Nghị định số 218/2013/NĐ-CP",
+  "law_title_en": "Decree No. 218/2013/ND-CP on Corporate Income Tax Guidance",
+  "citation": "218/2013/NĐ-CP",
+  "issuing_body": "Government of Vietnam",
+  "effective_date": "2014-02-15",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-218-2013-nd-cp-1737.htm",
+  "agent_tags": [
+    "CIT_implementation",
+    "deductible_expense",
+    "tax_incentives"
+  ],
+  "retrieval_priority": "medium"
+}

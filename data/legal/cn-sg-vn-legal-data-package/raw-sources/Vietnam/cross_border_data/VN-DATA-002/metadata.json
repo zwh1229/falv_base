@@ -1,0 +1,20 @@
+{
+  "id": "VN-DATA-002",
+  "country": "Vietnam",
+  "domain": "cross_border_data",
+  "law_title_local": "Nghị định số 53/2022/NĐ-CP",
+  "law_title_en": "Decree No. 53/2022/ND-CP detailing the Cybersecurity Law",
+  "citation": "53/2022/NĐ-CP",
+  "issuing_body": "Government of Vietnam",
+  "effective_date": "2022-10-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-53-2022-nd-cp-39253/44588.htm",
+  "agent_tags": [
+    "data_storage_in_vietnam",
+    "cross_border_transfer",
+    "local_presence"
+  ],
+  "retrieval_priority": "high"
+}

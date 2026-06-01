@@ -1,0 +1,20 @@
+{
+  "id": "CN-ENT-003",
+  "country": "China",
+  "domain": "enterprise_landing",
+  "law_title_local": "中华人民共和国市场主体登记管理条例",
+  "law_title_en": "Regulations on Administration of Market Entity Registration",
+  "citation": "State Council Order No. 746",
+  "issuing_body": "State Council",
+  "effective_date": "2022-03-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "China Government Gazette",
+  "official_url": "https://www.gov.cn/gongbao/content/2021/content_5636139.htm",
+  "agent_tags": [
+    "registration",
+    "digital_filing",
+    "business_license"
+  ],
+  "retrieval_priority": "high"
+}

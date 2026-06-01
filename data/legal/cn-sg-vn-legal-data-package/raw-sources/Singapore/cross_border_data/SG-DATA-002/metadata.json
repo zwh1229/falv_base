@@ -1,0 +1,20 @@
+{
+  "id": "SG-DATA-002",
+  "country": "Singapore",
+  "domain": "cross_border_data",
+  "law_title_local": "Personal Data Protection Regulations 2021",
+  "law_title_en": "Personal Data Protection Regulations 2021",
+  "citation": "S 63/2021",
+  "issuing_body": "Personal Data Protection Commission / Ministry",
+  "effective_date": "2021-02-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/SL/PDPA2012-S63-2021?ProvIds=P13-",
+  "agent_tags": [
+    "cross_border_transfer",
+    "legally_enforceable_obligation",
+    "certification"
+  ],
+  "retrieval_priority": "high"
+}

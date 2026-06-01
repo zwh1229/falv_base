@@ -1,0 +1,20 @@
+{
+  "id": "SG-TAX-003",
+  "country": "Singapore",
+  "domain": "tax",
+  "law_title_local": "Economic Expansion Incentives (Relief from Income Tax) Act 1967",
+  "law_title_en": "Economic Expansion Incentives (Relief from Income Tax) Act 1967",
+  "citation": "EEIRITA",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "1967-12-29",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/EEIRITA1967",
+  "agent_tags": [
+    "tax_incentive",
+    "pioneer_status",
+    "expansion_incentive"
+  ],
+  "retrieval_priority": "medium"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-004",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "数据出境安全评估办法",
+  "law_title_en": "Measures for Security Assessment of Data Export",
+  "citation": "CAC Order No. 11",
+  "issuing_body": "Cyberspace Administration of China",
+  "effective_date": "2022-09-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "CAC official rules",
+  "official_url": "https://www.cac.gov.cn/2022-07/07/c_1658811536396503.htm",
+  "agent_tags": [
+    "security_assessment",
+    "important_data_export",
+    "thresholds"
+  ],
+  "retrieval_priority": "high"
+}

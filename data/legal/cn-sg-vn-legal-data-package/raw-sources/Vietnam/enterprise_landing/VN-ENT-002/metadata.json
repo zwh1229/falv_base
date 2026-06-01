@@ -1,0 +1,20 @@
+{
+  "id": "VN-ENT-002",
+  "country": "Vietnam",
+  "domain": "enterprise_landing",
+  "law_title_local": "Văn bản hợp nhất số 09/VBHN-VPQH hợp nhất Luật Đầu tư",
+  "law_title_en": "Consolidated Law on Investment (VBHN 09)",
+  "citation": "09/VBHN-VPQH",
+  "issuing_body": "Office of the National Assembly",
+  "effective_date": "2025-02-24",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-09-vbhn-vpqh-44393.htm",
+  "agent_tags": [
+    "investment_approval",
+    "market_access",
+    "foreign_investor_rules"
+  ],
+  "retrieval_priority": "high"
+}

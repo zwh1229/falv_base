@@ -1,0 +1,21 @@
+{
+  "generated_at": "2026-06-01T13:22:08.307777Z",
+  "dataset_path": "cn-sg-vn-legal-dataset.json",
+  "total_records": 30,
+  "fetched_directly": 29,
+  "from_local_docx": 1,
+  "from_cached_capture": 0,
+  "failed": 0,
+  "by_country_domain": {
+    "China/enterprise_landing": 3,
+    "China/tax": 3,
+    "China/cross_border_data": 7,
+    "Singapore/enterprise_landing": 3,
+    "Singapore/tax": 3,
+    "Singapore/cross_border_data": 3,
+    "Vietnam/enterprise_landing": 2,
+    "Vietnam/tax": 3,
+    "Vietnam/cross_border_data": 3
+  },
+  "errors": []
+}

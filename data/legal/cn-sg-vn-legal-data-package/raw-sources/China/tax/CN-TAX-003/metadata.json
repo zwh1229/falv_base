@@ -1,0 +1,20 @@
+{
+  "id": "CN-TAX-003",
+  "country": "China",
+  "domain": "tax",
+  "law_title_local": "中华人民共和国增值税法",
+  "law_title_en": "Value-Added Tax Law of the People's Republic of China",
+  "citation": "effective 2026",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2026-01-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "State Taxation Administration Policy and Regulation Library",
+  "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5237365/content.html",
+  "agent_tags": [
+    "VAT",
+    "taxable_supply",
+    "import_tax"
+  ],
+  "retrieval_priority": "high"
+}

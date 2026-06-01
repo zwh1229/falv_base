@@ -1,0 +1,20 @@
+{
+  "id": "SG-TAX-001",
+  "country": "Singapore",
+  "domain": "tax",
+  "law_title_local": "Income Tax Act 1947",
+  "law_title_en": "Income Tax Act 1947",
+  "citation": "Act 39 of 1947",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "1947-12-29",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/ITA1947?ProvIds=pr14-&ValidDate=20251208",
+  "agent_tags": [
+    "income_tax",
+    "corporate_tax",
+    "withholding"
+  ],
+  "retrieval_priority": "high"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-ENT-002",
+  "country": "China",
+  "domain": "enterprise_landing",
+  "law_title_local": "中华人民共和国外商投资法",
+  "law_title_en": "Foreign Investment Law of the People's Republic of China",
+  "citation": "2019",
+  "issuing_body": "National People's Congress",
+  "effective_date": "2020-01-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "State Administration for Market Regulation legal disclosure",
+  "official_url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_b8551debdf8a4ddd91a9cb1bdb80dd9e.html",
+  "agent_tags": [
+    "foreign_investment",
+    "market_access",
+    "filing_reporting"
+  ],
+  "retrieval_priority": "high"
+}

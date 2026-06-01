@@ -1,0 +1,20 @@
+{
+  "id": "SG-DATA-001",
+  "country": "Singapore",
+  "domain": "cross_border_data",
+  "law_title_local": "Personal Data Protection Act 2012",
+  "law_title_en": "Personal Data Protection Act 2012",
+  "citation": "Act 26 of 2012",
+  "issuing_body": "Parliament of Singapore",
+  "effective_date": "2014-07-02",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Singapore Statutes Online",
+  "official_url": "https://sso.agc.gov.sg/Act/PDPA2012?WholeDoc=1",
+  "agent_tags": [
+    "PDPA",
+    "transfer_limitation",
+    "consent_management"
+  ],
+  "retrieval_priority": "high"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "CN-DATA-001",
+  "country": "China",
+  "domain": "cross_border_data",
+  "law_title_local": "中华人民共和国个人信息保护法",
+  "law_title_en": "Personal Information Protection Law of the People's Republic of China",
+  "citation": "2021",
+  "issuing_body": "National People's Congress Standing Committee",
+  "effective_date": "2021-11-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "National People's Congress legal publication",
+  "official_url": "http://www.npc.gov.cn/c2/c30834/202108/t20210820_313088.html",
+  "agent_tags": [
+    "personal_information",
+    "cross_border_transfer",
+    "consent"
+  ],
+  "retrieval_priority": "high"
+}

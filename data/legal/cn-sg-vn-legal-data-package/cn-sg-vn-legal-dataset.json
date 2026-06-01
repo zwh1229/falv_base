@@ -1,0 +1,625 @@
+{
+  "package_name": "cn-sg-vn-legal-core-v1",
+  "generated_at": "2026-06-01",
+  "validity_as_of": "2026-06-01",
+  "jurisdictions": [
+    "China",
+    "Singapore",
+    "Vietnam"
+  ],
+  "domains": [
+    "enterprise_landing",
+    "tax",
+    "cross_border_data"
+  ],
+  "source_policy": {
+    "source_preference": "official government legal databases and regulator websites",
+    "verification_method": "URL and document identity cross-checked from official source snippets",
+    "note": "This dataset is for compliance knowledge retrieval and workflow automation; confirm latest amendments before filing/transaction."
+  },
+  "records": [
+    {
+      "id": "CN-ENT-001",
+      "country": "China",
+      "domain": "enterprise_landing",
+      "law_title_local": "中华人民共和国公司法",
+      "law_title_en": "Company Law of the People's Republic of China",
+      "citation": "2023 revision",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2024-07-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "State Administration for Market Regulation legal disclosure",
+      "official_url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_067c072db6ef4679a2e0180996be4cf8.html",
+      "agent_tags": [
+        "company_incorporation",
+        "governance",
+        "shareholder_rights"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-ENT-002",
+      "country": "China",
+      "domain": "enterprise_landing",
+      "law_title_local": "中华人民共和国外商投资法",
+      "law_title_en": "Foreign Investment Law of the People's Republic of China",
+      "citation": "2019",
+      "issuing_body": "National People's Congress",
+      "effective_date": "2020-01-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "State Administration for Market Regulation legal disclosure",
+      "official_url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/fgs/art/2023/art_b8551debdf8a4ddd91a9cb1bdb80dd9e.html",
+      "agent_tags": [
+        "foreign_investment",
+        "market_access",
+        "filing_reporting"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-ENT-003",
+      "country": "China",
+      "domain": "enterprise_landing",
+      "law_title_local": "中华人民共和国市场主体登记管理条例",
+      "law_title_en": "Regulations on Administration of Market Entity Registration",
+      "citation": "State Council Order No. 746",
+      "issuing_body": "State Council",
+      "effective_date": "2022-03-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "China Government Gazette",
+      "official_url": "https://www.gov.cn/gongbao/content/2021/content_5636139.htm",
+      "agent_tags": [
+        "registration",
+        "digital_filing",
+        "business_license"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-TAX-001",
+      "country": "China",
+      "domain": "tax",
+      "law_title_local": "中华人民共和国企业所得税法",
+      "law_title_en": "Enterprise Income Tax Law of the People's Republic of China",
+      "citation": "latest amended text in policy library",
+      "issuing_body": "National People's Congress",
+      "effective_date": "2008-01-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "State Taxation Administration Policy and Regulation Library",
+      "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5193018/content.html",
+      "agent_tags": [
+        "CIT",
+        "resident_enterprise",
+        "non_resident_tax"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-TAX-002",
+      "country": "China",
+      "domain": "tax",
+      "law_title_local": "中华人民共和国税收征收管理法",
+      "law_title_en": "Law on the Administration of Tax Collection",
+      "citation": "latest amended text in policy library",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2001-05-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "State Taxation Administration Policy and Regulation Library",
+      "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5195081/content.html",
+      "agent_tags": [
+        "tax_procedure",
+        "filing",
+        "enforcement"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-TAX-003",
+      "country": "China",
+      "domain": "tax",
+      "law_title_local": "中华人民共和国增值税法",
+      "law_title_en": "Value-Added Tax Law of the People's Republic of China",
+      "citation": "effective 2026",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2026-01-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "State Taxation Administration Policy and Regulation Library",
+      "official_url": "https://fgk.chinatax.gov.cn/zcfgk/c100009/c5237365/content.html",
+      "agent_tags": [
+        "VAT",
+        "taxable_supply",
+        "import_tax"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-001",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "中华人民共和国个人信息保护法",
+      "law_title_en": "Personal Information Protection Law of the People's Republic of China",
+      "citation": "2021",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2021-11-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "National People's Congress legal publication",
+      "official_url": "http://www.npc.gov.cn/c2/c30834/202108/t20210820_313088.html",
+      "agent_tags": [
+        "personal_information",
+        "cross_border_transfer",
+        "consent"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-002",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "中华人民共和国数据安全法",
+      "law_title_en": "Data Security Law of the People's Republic of China",
+      "citation": "2021",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2021-09-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "National People's Congress legal publication",
+      "official_url": "http://www.npc.gov.cn/npc/c2/c30834/202106/t20210610_311888.html",
+      "agent_tags": [
+        "important_data",
+        "data_governance",
+        "export_control"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-003",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "中华人民共和国网络安全法",
+      "law_title_en": "Cybersecurity Law of the People's Republic of China",
+      "citation": "2016",
+      "issuing_body": "National People's Congress Standing Committee",
+      "effective_date": "2017-06-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "National People's Congress legal publication",
+      "official_url": "http://www.npc.gov.cn/zgrdw/npc/zfjc/zfjcelys/2016-11/07/content_2034939.htm",
+      "agent_tags": [
+        "CII",
+        "network_operator",
+        "data_localization"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-004",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "数据出境安全评估办法",
+      "law_title_en": "Measures for Security Assessment of Data Export",
+      "citation": "CAC Order No. 11",
+      "issuing_body": "Cyberspace Administration of China",
+      "effective_date": "2022-09-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "CAC official rules",
+      "official_url": "https://www.cac.gov.cn/2022-07/07/c_1658811536396503.htm",
+      "agent_tags": [
+        "security_assessment",
+        "important_data_export",
+        "thresholds"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-005",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "个人信息出境标准合同办法",
+      "law_title_en": "Measures on Standard Contract for Cross-border Transfer of Personal Information",
+      "citation": "CAC Order No. 13",
+      "issuing_body": "Cyberspace Administration of China",
+      "effective_date": "2023-06-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "CAC official rules",
+      "official_url": "https://www.cac.gov.cn/2023-02/24/c_1678884830036813.htm",
+      "agent_tags": [
+        "standard_contract",
+        "filing",
+        "PIIA"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-006",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "促进和规范数据跨境流动规定",
+      "law_title_en": "Provisions on Promoting and Regulating Cross-border Data Flows",
+      "citation": "2024",
+      "issuing_body": "Cyberspace Administration of China",
+      "effective_date": "2024-03-22",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "CAC official rules",
+      "official_url": "https://www.cac.gov.cn/2024-03/22/c_1712776611775634.htm",
+      "agent_tags": [
+        "transfer_exemptions",
+        "compliance_path",
+        "cross_border_data"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "CN-DATA-007",
+      "country": "China",
+      "domain": "cross_border_data",
+      "law_title_local": "国务院关于对外投资的规定",
+      "law_title_en": "Regulations of the State Council on Outbound Investment",
+      "citation": "State Council Order No. 837",
+      "issuing_body": "State Council",
+      "effective_date": "2026-07-01",
+      "is_currently_effective": false,
+      "valid_until": null,
+      "official_database": "China Government Website",
+      "official_url": "https://www.gov.cn/zhengce/content/202606/content_7070755.htm",
+      "agent_tags": [
+        "outbound_investment",
+        "cross_border_data",
+        "data_security",
+        "personal_information",
+        "export_control",
+        "overseas_compliance"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "SG-ENT-001",
+      "country": "Singapore",
+      "domain": "enterprise_landing",
+      "law_title_local": "Companies Act 1967",
+      "law_title_en": "Companies Act 1967",
+      "citation": "Act 50",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "1967-12-29",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/CoA1967?WholeDoc=1",
+      "agent_tags": [
+        "incorporation",
+        "directors",
+        "capital_structure"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "SG-ENT-002",
+      "country": "Singapore",
+      "domain": "enterprise_landing",
+      "law_title_local": "Business Names Registration Act 2014",
+      "law_title_en": "Business Names Registration Act 2014",
+      "citation": "Act 29 of 2014",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "2016-01-03",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/BNRA2014",
+      "agent_tags": [
+        "business_name",
+        "registration",
+        "local_business_operations"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "SG-ENT-003",
+      "country": "Singapore",
+      "domain": "enterprise_landing",
+      "law_title_local": "Limited Liability Partnerships Act 2005",
+      "law_title_en": "Limited Liability Partnerships Act 2005",
+      "citation": "Act 5 of 2005",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "2005-01-19",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/LLPA2005?ValidDate=20260506",
+      "agent_tags": [
+        "LLP",
+        "entity_choice",
+        "partner_liability"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "SG-TAX-001",
+      "country": "Singapore",
+      "domain": "tax",
+      "law_title_local": "Income Tax Act 1947",
+      "law_title_en": "Income Tax Act 1947",
+      "citation": "Act 39 of 1947",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "1947-12-29",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/ITA1947?ProvIds=pr14-&ValidDate=20251208",
+      "agent_tags": [
+        "income_tax",
+        "corporate_tax",
+        "withholding"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "SG-TAX-002",
+      "country": "Singapore",
+      "domain": "tax",
+      "law_title_local": "Goods and Services Tax Act 1993",
+      "law_title_en": "Goods and Services Tax Act 1993",
+      "citation": "Act 31 of 1993",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "1994-04-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/GSTA1993?ProvIds=P13-",
+      "agent_tags": [
+        "GST",
+        "taxable_supply",
+        "import_GST"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "SG-TAX-003",
+      "country": "Singapore",
+      "domain": "tax",
+      "law_title_local": "Economic Expansion Incentives (Relief from Income Tax) Act 1967",
+      "law_title_en": "Economic Expansion Incentives (Relief from Income Tax) Act 1967",
+      "citation": "EEIRITA",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "1967-12-29",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/EEIRITA1967",
+      "agent_tags": [
+        "tax_incentive",
+        "pioneer_status",
+        "expansion_incentive"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "SG-DATA-001",
+      "country": "Singapore",
+      "domain": "cross_border_data",
+      "law_title_local": "Personal Data Protection Act 2012",
+      "law_title_en": "Personal Data Protection Act 2012",
+      "citation": "Act 26 of 2012",
+      "issuing_body": "Parliament of Singapore",
+      "effective_date": "2014-07-02",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/Act/PDPA2012?WholeDoc=1",
+      "agent_tags": [
+        "PDPA",
+        "transfer_limitation",
+        "consent_management"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "SG-DATA-002",
+      "country": "Singapore",
+      "domain": "cross_border_data",
+      "law_title_local": "Personal Data Protection Regulations 2021",
+      "law_title_en": "Personal Data Protection Regulations 2021",
+      "citation": "S 63/2021",
+      "issuing_body": "Personal Data Protection Commission / Ministry",
+      "effective_date": "2021-02-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Singapore Statutes Online",
+      "official_url": "https://sso.agc.gov.sg/SL/PDPA2012-S63-2021?ProvIds=P13-",
+      "agent_tags": [
+        "cross_border_transfer",
+        "legally_enforceable_obligation",
+        "certification"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "SG-DATA-003",
+      "country": "Singapore",
+      "domain": "cross_border_data",
+      "law_title_local": "PDPC Guide to Cross-Border Data Transfers",
+      "law_title_en": "Guide to Cross-Border Data Transfers",
+      "citation": "Regulatory guidance",
+      "issuing_body": "Personal Data Protection Commission",
+      "effective_date": "N/A",
+      "is_currently_effective": null,
+      "valid_until": null,
+      "official_database": "PDPC official guidance",
+      "official_url": "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/guide-to-cross-border-data-transfers",
+      "agent_tags": [
+        "ASEAN_MCC",
+        "transfer_method_selection",
+        "practical_compliance"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "VN-ENT-001",
+      "country": "Vietnam",
+      "domain": "enterprise_landing",
+      "law_title_local": "Văn bản hợp nhất số 67/VBHN-VPQH hợp nhất Luật Doanh nghiệp",
+      "law_title_en": "Consolidated Law on Enterprises (VBHN 67)",
+      "citation": "67/VBHN-VPQH",
+      "issuing_body": "Office of the National Assembly",
+      "effective_date": "2025-08-15",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-67-vbhn-vpqh-45865/58269.htm",
+      "agent_tags": [
+        "company_formation",
+        "governance",
+        "enterprise_registration"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "VN-ENT-002",
+      "country": "Vietnam",
+      "domain": "enterprise_landing",
+      "law_title_local": "Văn bản hợp nhất số 09/VBHN-VPQH hợp nhất Luật Đầu tư",
+      "law_title_en": "Consolidated Law on Investment (VBHN 09)",
+      "citation": "09/VBHN-VPQH",
+      "issuing_body": "Office of the National Assembly",
+      "effective_date": "2025-02-24",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-09-vbhn-vpqh-44393.htm",
+      "agent_tags": [
+        "investment_approval",
+        "market_access",
+        "foreign_investor_rules"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "VN-TAX-001",
+      "country": "Vietnam",
+      "domain": "tax",
+      "law_title_local": "Luật số 38/2019/QH14 luật Quản lý thuế",
+      "law_title_en": "Law on Tax Administration No. 38/2019/QH14",
+      "citation": "38/2019/QH14",
+      "issuing_body": "National Assembly of Vietnam",
+      "effective_date": "2020-07-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/luat-so-38-2019-qh14-29256.htm",
+      "agent_tags": [
+        "tax_administration",
+        "declaration",
+        "taxpayer_obligations"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "VN-TAX-002",
+      "country": "Vietnam",
+      "domain": "tax",
+      "law_title_local": "Văn bản hợp nhất số 22/VBHN-VPQH hợp nhất Luật Thuế thu nhập doanh nghiệp",
+      "law_title_en": "Consolidated Law on Corporate Income Tax (VBHN 22)",
+      "citation": "22/VBHN-VPQH",
+      "issuing_body": "Office of the National Assembly",
+      "effective_date": "2022-12-29",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/van-ban-hop-nhat-so-22-vbhn-vpqh-39013.htm",
+      "agent_tags": [
+        "CIT",
+        "taxable_income",
+        "preferential_rate"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "VN-TAX-003",
+      "country": "Vietnam",
+      "domain": "tax",
+      "law_title_local": "Nghị định số 218/2013/NĐ-CP",
+      "law_title_en": "Decree No. 218/2013/ND-CP on Corporate Income Tax Guidance",
+      "citation": "218/2013/NĐ-CP",
+      "issuing_body": "Government of Vietnam",
+      "effective_date": "2014-02-15",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-218-2013-nd-cp-1737.htm",
+      "agent_tags": [
+        "CIT_implementation",
+        "deductible_expense",
+        "tax_incentives"
+      ],
+      "retrieval_priority": "medium"
+    },
+    {
+      "id": "VN-DATA-001",
+      "country": "Vietnam",
+      "domain": "cross_border_data",
+      "law_title_local": "Luật số 24/2018/QH14 luật An ninh mạng",
+      "law_title_en": "Cybersecurity Law No. 24/2018/QH14",
+      "citation": "24/2018/QH14",
+      "issuing_body": "National Assembly of Vietnam",
+      "effective_date": "2019-01-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/luat-so-24-2018-qh14-26894/23075.htm",
+      "agent_tags": [
+        "cybersecurity",
+        "critical_system",
+        "data_localization"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "VN-DATA-002",
+      "country": "Vietnam",
+      "domain": "cross_border_data",
+      "law_title_local": "Nghị định số 53/2022/NĐ-CP",
+      "law_title_en": "Decree No. 53/2022/ND-CP detailing the Cybersecurity Law",
+      "citation": "53/2022/NĐ-CP",
+      "issuing_body": "Government of Vietnam",
+      "effective_date": "2022-10-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-53-2022-nd-cp-39253/44588.htm",
+      "agent_tags": [
+        "data_storage_in_vietnam",
+        "cross_border_transfer",
+        "local_presence"
+      ],
+      "retrieval_priority": "high"
+    },
+    {
+      "id": "VN-DATA-003",
+      "country": "Vietnam",
+      "domain": "cross_border_data",
+      "law_title_local": "Nghị định số 13/2023/NĐ-CP bảo vệ dữ liệu cá nhân",
+      "law_title_en": "Decree No. 13/2023/ND-CP on Personal Data Protection",
+      "citation": "13/2023/NĐ-CP",
+      "issuing_body": "Government of Vietnam",
+      "effective_date": "2023-07-01",
+      "is_currently_effective": true,
+      "valid_until": null,
+      "official_database": "Công báo / Chính phủ legal portal",
+      "official_url": "https://congbao.chinhphu.vn/van-ban/nghi-dinh-so-13-2023-nd-cp-39228/44543.htm",
+      "agent_tags": [
+        "personal_data",
+        "transfer_impact_assessment",
+        "consent"
+      ],
+      "retrieval_priority": "high"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "VN-DATA-001",
+  "country": "Vietnam",
+  "domain": "cross_border_data",
+  "law_title_local": "Luật số 24/2018/QH14 luật An ninh mạng",
+  "law_title_en": "Cybersecurity Law No. 24/2018/QH14",
+  "citation": "24/2018/QH14",
+  "issuing_body": "National Assembly of Vietnam",
+  "effective_date": "2019-01-01",
+  "is_currently_effective": true,
+  "valid_until": null,
+  "official_database": "Công báo / Chính phủ legal portal",
+  "official_url": "https://congbao.chinhphu.vn/van-ban/luat-so-24-2018-qh14-26894/23075.htm",
+  "agent_tags": [
+    "cybersecurity",
+    "critical_system",
+    "data_localization"
+  ],
+  "retrieval_priority": "high"
+}

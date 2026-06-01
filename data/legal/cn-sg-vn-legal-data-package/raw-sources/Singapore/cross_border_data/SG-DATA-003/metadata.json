@@ -1,0 +1,20 @@
+{
+  "id": "SG-DATA-003",
+  "country": "Singapore",
+  "domain": "cross_border_data",
+  "law_title_local": "PDPC Guide to Cross-Border Data Transfers",
+  "law_title_en": "Guide to Cross-Border Data Transfers",
+  "citation": "Regulatory guidance",
+  "issuing_body": "Personal Data Protection Commission",
+  "effective_date": "N/A",
+  "is_currently_effective": null,
+  "valid_until": null,
+  "official_database": "PDPC official guidance",
+  "official_url": "https://www.pdpc.gov.sg/organisations/resources/guidance-by-topic/guide-to-cross-border-data-transfers",
+  "agent_tags": [
+    "ASEAN_MCC",
+    "transfer_method_selection",
+    "practical_compliance"
+  ],
+  "retrieval_priority": "medium"
+}
