@@ -5,27 +5,27 @@ from pydantic import BaseModel
 
 
 #定义体检任务的审查范围
-class AuditScope(str,Enum):
+class AuditScope(str, Enum):
     china = 'china'
     #中新
-    china_singapore='china_singapore'
+    china_singapore = 'china_singapore'
     #中越
-    china_viethnam='china_vietnam'
+    china_vietnam = 'china_vietnam'
 
 
 #定义创建任务时的数据格式
 
 class CreateAuditTaskRequest(BaseModel):
     #企业名称
-    company_name:Optional[str]=None
+    company_name: Optional[str] = None
     #审查范围
-    scope:AuditScope
+    scope: AuditScope
 
 
 #定义后端给前端返回的数据格式
 class AuditTaskResponse(BaseModel):
     #任务id
-    task_id :str
+    task_id: str
 
     
     company_name: Optional[str] = None
@@ -51,4 +51,11 @@ class AuditTaskResponse(BaseModel):
 # 提交问题模型 
 class SubmitAuditAnswerRequest(BaseModel):
 
+    answer: str
+
+
+class AuditAnswerResponse(BaseModel):
+    id: int
+    task_id: str
+    round_no: int
     answer: str

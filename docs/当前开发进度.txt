@@ -1,0 +1,77 @@
+当前开发进度
+记录时间：2026-06-01
+
+一、当前总进度
+
+1. 整个 MVP 总进度：约 12%-15%。
+2. 当前“法规主记录导入闭环”进度：约 35%。
+
+二、已经完成
+
+2. 后端依赖已安装完成。
+3. 后端基础服务可导入和运行。
+4. 健康检查接口已可用。
+5. 审查任务创建接口已可用。
+6. 审查任务查询接口已可用。
+7. 提交回答并推进问答轮次接口已可用。
+8. 保留了 3 个基础修复差异：
+   - backend/app/models/audit.py
+   - backend/app/schemas/audit.py
+   - backend/app/services/audit_scope.py
+9. 已新增法规主记录 ORM 模型：
+   - backend/app/models/legal.py
+10. 已新增法规接口 schema：
+   - backend/app/schemas/legal.py
+
+三、当前暂停点
+
+当前暂停在 Step 3：准备新增法规仓储层。
+
+下一步要写的文件：
+
+backend/app/repositories/legal_store.py
+
+四、下一步目标
+
+Step 3：新增 legal_store.py。
+
+What：
+仓储层负责把法规主记录写入数据库，也负责从数据库查询法规列表和详情。
+
+Why：
+路由层不应该直接操作数据库。把数据库逻辑放到 repositories 层，后续维护和扩展更清楚。
+
+How：
+使用 SQLAlchemy Session，实现：
+1. ORM 对象转 API 响应对象。
+2. 批量 upsert 30 条法规主记录。
+3. 查询法规列表。
+4. 查询单条法规详情。
+
+五、还未完成
+
+1. backend/app/repositories/legal_store.py
+2. backend/app/services/legal_data_loader.py
+3. backend/app/api/routes/legal_data.py
+4. main.py 挂载 legal_data 路由。
+5. main.py 导入 LegalRecord，让 create_all 能创建 legal_records 表。
+6. 验证 POST /api/v1/legal-data/import。
+7. 验证 GET /api/v1/legal-data/records。
+8. 验证 GET /api/v1/legal-data/records/{record_id}。
+
+六、后续开发规则
+
+1. 用户亲自写代码，Codex 只一步一步引导。
+2. 每一步只写一个文件或一个很小的改动。
+3. 所有新增代码都按 WWH 注释。
+4. WWH 含义：
+   - What：这一行或这一段做什么。
+   - Why：为什么需要它。
+   - How：它具体怎么工作。
+5. 不跳步，不一次性塞完整模块。
+
+七、下次继续口令
+
+对 Codex 说：
+
+继续 Step 3，从 legal_store.py 开始，按 WWH 带我写。

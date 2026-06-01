@@ -92,28 +92,3 @@ class AuditAnswer(Base):
     # Why: 后续槽位抽取、风险判断、报告生成都要基于这些回答
     # How: Text 可以保存较长的自然语言回答
     answer: Mapped[str] = mapped_column(Text, nullable=False)
-
-
-
-
-
-    class AuditAnswerResponse(BaseModel):
-    # What: 回答记录 ID
-    # Why: 每条回答都需要唯一编号
-    # How: 对应 audit_answers 表里的 id 字段
-    id: int
-
-    # What: 所属任务 ID
-    # Why: 需要知道这条回答属于哪个体检任务
-    # How: 对应 audit_answers 表里的 task_id 字段
-    task_id: str
-
-    # What: 回答轮次
-    # Why: 报告里要知道这是第几轮问答的回答
-    # How: 对应 audit_answers 表里的 round_no 字段
-    round_no: int
-
-    # What: 用户回答正文
-    # Why: 后续槽位抽取、风险判断、报告生成都依赖它
-    # How: 对应 audit_answers 表里的 answer 字段
-    answer: str
