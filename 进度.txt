@@ -3,29 +3,21 @@
 
 一、仓库状态
 
-1. 已初始化 Git 仓库。
-2. 已推送到 GitHub：
-   git@github.com:zwh1229/falv_base.git
-3. 当前主分支：
-   main
-4. 最近提交：
+1. 最近提交：
    4dadba8 data: add legal package and CN-DATA-007
 
 二、后端基础能力
 
-1. 已搭建 FastAPI 后端基础服务。
-2. 已使用 conda 环境 rag-backend。
-3. 已配置 requirements.txt。
-4. 已实现健康检查接口：
+1.  后端基础服务。
+2. 已实现健康检查接口：
    GET /api/v1/health
-5. 已实现审查任务创建接口：
+3. 已实现审查任务创建接口：
    POST /api/v1/audit-tasks
-6. 已实现审查任务查询接口：
+4. 已实现审查任务查询接口：
    GET /api/v1/audit-tasks/{task_id}
-7. 已实现提交问答回答接口：
+5. 已实现提交问答回答接口：
    POST /api/v1/audit-tasks/{task_id}/answers
-8. 已使用 SQLite 本地模拟数据库。
-9. 已建立基础表：
+6. 已建立基础表：
    audit_tasks
    audit_answers
 
@@ -55,10 +47,8 @@
    China
    Singapore
    Vietnam
-4. 已清理 macOS 元数据文件：
-   .DS_Store
-   __MACOSX
-5. 已将索引路径改为仓库内相对路径。
+
+
 
 五、新增中国资料
 
@@ -72,7 +62,7 @@
    China / cross_border_data
 5. 生效日期：
    2026-07-01
-6. 已生成：
+6. 
    source.docx
    content.txt
    metadata.json
@@ -136,12 +126,5 @@
    报告生成
    PDF 导出
 
-九、暂缓事项
 
-1. 登录注册。
-2. 企业后台。
-3. 权限体系。
-4. 向量数据库。
-5. 大模型 Agent。
-6. PDF 样式细化。
 
