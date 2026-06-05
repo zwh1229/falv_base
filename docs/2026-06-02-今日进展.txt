@@ -1,0 +1,122 @@
+数据跨境合规体检智能体 - 今日开发进展
+日期：2026-06-02
+
+一、今日总体进度
+
+今天主要完成了“法规库入库与查询”这条后端基础链路。
+
+当前项目主线仍然是：
+5 轮问答收集企业事实 -> 法规库入库 -> 检索相关法规 -> 风险分析 -> 生成报告。
+
+截至今天，后端 MVP 大约完成 45%-50%。
+
+
+二、今日已完成
+
+1. 修复并完善法规主记录模型
+
+文件：
+backend/app/models/legal.py
+
+完成内容：
+- 定义 legal_records 表。
+- 补齐 record_id、country、domain、law_title_local、citation、issuing_body 等法规基础字段。
+- 补齐 fetch_status、fetch_method、http_status、content_path、metadata_path、fetch_status_path 等数据来源字段。
+- 修正 metadata_path 字段命名。
+- 修正 agent_tags 类型为 list[str]。
+- 修正 http_status 类型为 int | None。
+
+
+2. 修复法规接口响应 schema
+
+文件：
+backend/app/schemas/legal.py
+
+完成内容：
+- 定义 LegalRecordResponse。
+- 定义 LegalImportResponse。
+- 修正 inserted_records 字段拼写。
+- 使用 Pydantic v2 的 ConfigDict(from_attributes=True)，支持 ORM 对象转响应对象。
+
+
+3. 新增法规数据读取服务
+
+文件：
+backend/app/services/legal_data_loader.py
+
+完成内容：
+- 定义法规数据包默认路径。
+- 读取 cn-sg-vn-legal-dataset.json。
+- 返回法规数据包和 records 列表。
+
+
+4. 新增法规数据仓储层
+
+文件：
+backend/app/repositories/legal_store.py
+
+完成内容：
+- 实现 build_legal_record_values。
+- 实现 upsert_legal_records。
+- 支持首次导入新增法规记录。
+- 支持重复导入时更新已有法规记录。
+- 实现 list_legal_records。
+- 支持按 country 和 domain 查询法规列表。
+
+
+5. 新增法规数据接口
+
+文件：
+backend/app/api/routes/legal_data.py
+
+完成内容：
+- 新增 POST /api/v1/legal-data/import。
+- 新增 GET /api/v1/legal-data/records。
+- 支持 country 和 domain 查询参数过滤。
+
+
+6. 在主应用挂载法规数据路由
+
+文件：
+backend/main.py
+
+完成内容：
+- 导入 legal_data_router。
+- include_router 挂载法规数据接口。
+- FastAPI OpenAPI 中已经能看到：
+  - /api/v1/legal-data/import
+  - /api/v1/legal-data/records
+
+
+7. 新增法规正文读取服务
+
+文件：
+backend/app/services/legal_content_reader.py
+
+完成内容：
+- 根据数据库中的 content_path 读取 content.txt。
+- 已验证 CN-DATA-007 正文可以读取。
+- CN-DATA-007 正文长度约 4897 字。
+
+
+8. 新增问答上下文整理服务
+
+文件：
+backend/app/services/audit_context_builder.py
+
+完成内容：
+- 将某个体检任务的多轮回答整理成一段上下文文本。
+- 后续风险分析和法规检索会基于这段上下文执行。
+
+
+9. 补充体检回答查询函数
+
+文件：
+backend/app/repositories/audit_task_store.py
+
+完成内容：
+- 新增 list_audit_answers_by_task_id。
+- 支持按 task_id 查询某次体检的全部回答。
+- 按 round_no 正序返回。
+
+

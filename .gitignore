@@ -17,6 +17,8 @@ env/
 *.db
 *.sqlite
 *.sqlite3
+*-dev.log
+*-dev.err.log
 
 # OS files
 .DS_Store

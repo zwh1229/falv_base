@@ -92,3 +92,58 @@ class AuditAnswer(Base):
     # Why: 后续槽位抽取、风险判断、报告生成都要基于这些回答
     # How: Text 可以保存较长的自然语言回答
     answer: Mapped[str] = mapped_column(Text, nullable=False)
+
+
+# What: 定义风险分析结果表模型。
+# Why: /analysis 接口生成的结果不能只返回给前端，还要保存到数据库，方便后续查看和生成报告。
+# How: 每次分析生成一条 AuditAnalysisResult 记录。
+class AuditAnalysisResult(Base):
+    # What: 指定数据库表名。
+    # Why: SQLAlchemy 需要知道这个模型对应哪张表。
+    # How: 表名使用 audit_analysis_results。
+    __tablename__ = "audit_analysis_results"
+
+    # What: 分析结果 ID。
+    # Why: 每次分析结果都需要唯一标识。
+    # How: 使用 UUID 字符串作为主键。
+    analysis_id: Mapped[str] = mapped_column(String(36), primary_key=True, index=True)
+
+    # What: 所属体检任务 ID。
+    # Why: 分析结果必须关联到具体 audit task。
+    # How: ForeignKey 指向 audit_tasks.task_id。
+    task_id: Mapped[str] = mapped_column(
+        String(36),
+        ForeignKey("audit_tasks.task_id"),
+        index=True,
+        nullable=False,
+    )
+
+    # What: 企业问答上下文快照。
+    # Why: 后续查看报告时，需要知道当时模型基于哪些企业事实分析。
+    # How: Text 保存 build_audit_answer_context 的结果。
+    audit_context: Mapped[str] = mapped_column(Text, nullable=False)
+
+    # What: 风险分析正文。
+    # Why: 这是 56 Chat 生成的核心分析结果。
+    # How: Text 保存完整分析文本。
+    analysis_text: Mapped[str] = mapped_column(Text, nullable=False)
+
+    # What: 法规依据 JSON。
+    # Why: 需要保存本次分析引用了哪些法规 chunk。
+    # How: JSON 保存 evidence 列表。
+    evidences: Mapped[list[dict]] = mapped_column(JSON, nullable=False, default=list)
+
+    # What: 检索方法。
+    # Why: 后续可能比较 vector、bm25、hybrid 的效果。
+    # How: 当前默认保存 hybrid。
+    retrieval_method: Mapped[str] = mapped_column(String(50), nullable=False, default="hybrid")
+
+    # What: 模型名称。
+    # Why: 后续需要知道本次分析用的是哪个模型。
+    # How: 当前保存 gpt-4o-mini，后面从配置读取。
+    model_name: Mapped[str | None] = mapped_column(String(100), nullable=True)
+
+    # What: 生成时间。
+    # Why: 需要知道分析结果是什么时候生成的。
+    # How: 使用 UTC ISO 字符串保存。
+    created_at_utc: Mapped[str] = mapped_column(String(50), nullable=False)
